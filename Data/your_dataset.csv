@@ -1,0 +1,2001 @@
+Week,State_Code,State_Name,Disease_Code,Incidence_per_Capita,Disease_Outbreak
+8,UP,Maharashtra,DEN,0.36,0
+38,KA,Rajasthan,DEN,2.5,1
+16,MH,Gujarat,CHK,0.31,0
+17,KA,Karnataka,MAL,4.46,1
+31,KA,West Bengal,CHK,0.52,0
+31,RJ,Karnataka,DEN,0.76,0
+51,UP,Andhra Pradesh,MAL,2.16,1
+6,OR,West Bengal,MAL,0.53,0
+36,GJ,Gujarat,DEN,4.34,1
+11,UP,Gujarat,MAL,1.15,0
+28,UP,Bihar,CHK,4.95,1
+1,MH,Odisha,CHK,0.32,0
+30,KA,Karnataka,MAL,0.77,0
+26,RJ,Rajasthan,DEN,2.5,1
+44,GJ,Maharashtra,DEN,2.52,1
+39,WB,Rajasthan,MAL,4.69,1
+35,GJ,Gujarat,MAL,4.54,1
+48,TN,Karnataka,DEN,4.61,1
+51,KA,West Bengal,MAL,1.07,0
+49,GJ,Tamil Nadu,DEN,1.26,0
+12,BH,West Bengal,MAL,2.46,1
+48,TN,Maharashtra,DEN,1.09,0
+6,MH,Rajasthan,DEN,1.45,0
+22,KA,Tamil Nadu,DEN,0.18,0
+47,RJ,Uttar Pradesh,CHK,1.46,0
+15,KA,Gujarat,MAL,3.14,1
+16,WB,Karnataka,MAL,0.71,0
+47,RJ,Andhra Pradesh,DEN,2.91,1
+35,RJ,Bihar,DEN,2.1,1
+25,BH,West Bengal,DEN,2.38,1
+17,GJ,Odisha,MAL,4.21,1
+42,GJ,Tamil Nadu,CHK,3.73,1
+44,KA,West Bengal,CHK,4.99,1
+17,RJ,Odisha,CHK,3.97,1
+22,KA,Maharashtra,MAL,1.13,0
+22,UP,Bihar,CHK,2.2,1
+11,GJ,Karnataka,MAL,1.38,0
+43,RJ,Tamil Nadu,MAL,0.7,0
+6,OR,Uttar Pradesh,DEN,0.7,0
+48,MH,Maharashtra,MAL,3.82,1
+8,TN,Karnataka,MAL,4.6,1
+47,GJ,Rajasthan,MAL,1.07,0
+6,BH,Gujarat,DEN,2.19,1
+8,RJ,Uttar Pradesh,CHK,3.5,1
+26,UP,Odisha,CHK,1.23,0
+21,BH,Uttar Pradesh,DEN,2.09,1
+26,AP,Uttar Pradesh,DEN,2.27,1
+27,GJ,Andhra Pradesh,MAL,2.36,1
+6,OR,Tamil Nadu,DEN,3.8,1
+4,OR,Karnataka,MAL,0.16,0
+27,UP,Karnataka,CHK,1.43,0
+24,OR,Gujarat,MAL,2.75,1
+44,GJ,Gujarat,MAL,1.16,0
+32,RJ,Andhra Pradesh,MAL,3.76,1
+24,KA,Rajasthan,DEN,3.2,1
+30,RJ,Gujarat,DEN,0.42,0
+20,MH,Maharashtra,DEN,1.24,0
+28,MH,Gujarat,DEN,1.23,0
+29,KA,Bihar,MAL,1.18,0
+21,TN,Karnataka,CHK,2.74,1
+35,WB,Odisha,CHK,0.44,0
+17,GJ,Andhra Pradesh,CHK,3.69,1
+28,OR,Gujarat,CHK,1.02,0
+9,OR,Tamil Nadu,DEN,1.32,0
+23,KA,Uttar Pradesh,MAL,0.78,0
+38,OR,Tamil Nadu,DEN,1.48,0
+26,AP,Gujarat,DEN,3.21,1
+8,AP,Odisha,MAL,0.64,0
+51,MH,West Bengal,DEN,4.11,1
+1,WB,Rajasthan,MAL,1.18,0
+45,AP,Gujarat,DEN,0.96,0
+24,AP,Tamil Nadu,CHK,3.01,1
+10,KA,Andhra Pradesh,CHK,1.39,0
+18,TN,Tamil Nadu,DEN,0.5,0
+31,BH,Karnataka,MAL,2.0,1
+25,UP,Odisha,MAL,3.52,1
+47,KA,Rajasthan,MAL,1.43,0
+28,GJ,Andhra Pradesh,DEN,3.85,1
+48,BH,Rajasthan,CHK,3.67,1
+12,KA,Odisha,MAL,1.25,0
+2,UP,West Bengal,DEN,2.8,1
+8,OR,West Bengal,DEN,2.49,1
+5,MH,Bihar,CHK,0.8,0
+13,AP,Bihar,DEN,1.38,0
+43,WB,Karnataka,DEN,1.47,0
+5,OR,Odisha,MAL,0.78,0
+22,MH,Andhra Pradesh,MAL,1.31,0
+42,TN,Uttar Pradesh,CHK,2.72,1
+25,GJ,Rajasthan,MAL,4.12,1
+38,TN,Tamil Nadu,DEN,0.79,0
+28,MH,Maharashtra,CHK,0.47,0
+45,RJ,Maharashtra,CHK,0.61,0
+15,KA,West Bengal,DEN,4.65,1
+12,MH,Maharashtra,MAL,4.29,1
+28,WB,Odisha,MAL,1.04,0
+3,UP,West Bengal,DEN,0.46,0
+5,RJ,Rajasthan,DEN,2.81,1
+47,TN,Maharashtra,CHK,0.99,0
+46,KA,Karnataka,MAL,1.41,0
+39,KA,Maharashtra,MAL,0.72,0
+43,TN,Maharashtra,DEN,3.39,1
+23,RJ,Rajasthan,MAL,2.32,1
+7,GJ,Andhra Pradesh,MAL,3.3,1
+10,MH,Rajasthan,CHK,0.15,0
+26,RJ,Gujarat,CHK,3.91,1
+51,MH,Karnataka,DEN,4.69,1
+12,OR,Gujarat,DEN,3.82,1
+33,MH,Karnataka,MAL,2.24,1
+36,RJ,Gujarat,MAL,2.83,1
+5,MH,Rajasthan,CHK,3.7,1
+28,UP,Odisha,CHK,3.4,1
+18,KA,Bihar,CHK,1.37,0
+45,TN,Andhra Pradesh,CHK,0.11,0
+14,MH,Odisha,CHK,1.05,0
+23,OR,Gujarat,DEN,4.25,1
+37,TN,Bihar,DEN,2.35,1
+47,OR,Gujarat,CHK,0.84,0
+49,RJ,Rajasthan,CHK,2.48,1
+30,TN,Bihar,DEN,2.06,1
+13,AP,Karnataka,CHK,0.7,0
+3,TN,Gujarat,DEN,0.81,0
+5,WB,Gujarat,MAL,1.41,0
+25,BH,West Bengal,MAL,0.75,0
+32,WB,Tamil Nadu,MAL,3.91,1
+23,OR,Karnataka,MAL,4.38,1
+52,MH,Uttar Pradesh,MAL,0.27,0
+39,BH,Maharashtra,CHK,4.25,1
+18,OR,Uttar Pradesh,CHK,3.03,1
+52,OR,Maharashtra,CHK,0.81,0
+33,RJ,Tamil Nadu,MAL,4.88,1
+32,RJ,Uttar Pradesh,MAL,0.2,0
+23,TN,Rajasthan,DEN,0.15,0
+37,MH,Odisha,CHK,2.26,1
+36,UP,Maharashtra,DEN,2.2,1
+50,BH,West Bengal,MAL,2.33,1
+19,WB,Maharashtra,MAL,0.68,0
+25,WB,Tamil Nadu,CHK,0.82,0
+16,WB,Gujarat,MAL,0.35,0
+35,OR,Odisha,DEN,0.19,0
+19,AP,Odisha,CHK,1.25,0
+42,GJ,Rajasthan,CHK,0.39,0
+16,UP,West Bengal,CHK,4.65,1
+38,KA,Gujarat,MAL,0.86,0
+50,OR,Tamil Nadu,MAL,3.5,1
+14,KA,West Bengal,DEN,1.04,0
+33,TN,Odisha,DEN,2.28,1
+25,GJ,Karnataka,DEN,2.44,1
+34,AP,Gujarat,MAL,0.6,0
+32,BH,Karnataka,MAL,2.78,1
+41,GJ,Tamil Nadu,DEN,4.4,1
+29,BH,Rajasthan,MAL,0.85,0
+5,TN,Gujarat,DEN,3.05,1
+23,KA,Karnataka,MAL,2.1,1
+26,AP,West Bengal,MAL,1.3,0
+3,WB,Odisha,DEN,4.44,1
+22,UP,West Bengal,CHK,4.72,1
+27,TN,Bihar,MAL,3.86,1
+4,RJ,Andhra Pradesh,CHK,1.36,0
+17,OR,Bihar,MAL,4.83,1
+52,BH,Bihar,DEN,0.17,0
+43,TN,Tamil Nadu,CHK,4.43,1
+23,OR,Karnataka,DEN,4.65,1
+24,AP,Maharashtra,DEN,3.31,1
+8,GJ,Rajasthan,MAL,0.2,0
+40,TN,Gujarat,DEN,1.15,0
+17,OR,Gujarat,MAL,1.12,0
+26,OR,Bihar,CHK,0.76,0
+47,WB,West Bengal,CHK,0.8,0
+32,KA,Bihar,DEN,2.61,1
+38,UP,Tamil Nadu,MAL,0.62,0
+25,MH,Andhra Pradesh,MAL,0.43,0
+38,WB,Bihar,DEN,4.41,1
+19,KA,Rajasthan,CHK,0.82,0
+13,MH,Bihar,MAL,1.28,0
+42,WB,Gujarat,MAL,4.56,1
+45,KA,Bihar,DEN,0.87,0
+17,WB,Tamil Nadu,DEN,2.51,1
+13,WB,Karnataka,MAL,0.65,0
+37,RJ,West Bengal,DEN,2.64,1
+23,TN,Odisha,DEN,1.09,0
+52,RJ,Andhra Pradesh,MAL,0.87,0
+20,KA,Bihar,MAL,3.02,1
+6,OR,Uttar Pradesh,DEN,0.95,0
+36,TN,West Bengal,CHK,0.79,0
+18,GJ,Gujarat,DEN,4.4,1
+10,MH,Odisha,DEN,4.58,1
+13,GJ,Maharashtra,CHK,1.15,0
+49,GJ,Karnataka,CHK,1.16,0
+10,WB,West Bengal,CHK,0.39,0
+34,OR,Maharashtra,CHK,0.17,0
+36,BH,Maharashtra,DEN,4.1,1
+7,GJ,Tamil Nadu,CHK,4.76,1
+14,GJ,Odisha,DEN,0.57,0
+23,GJ,Bihar,MAL,4.74,1
+25,BH,Maharashtra,CHK,2.98,1
+44,MH,Rajasthan,CHK,2.58,1
+23,UP,Rajasthan,MAL,0.25,0
+28,KA,Tamil Nadu,MAL,2.19,1
+19,MH,Odisha,DEN,3.38,1
+51,MH,Uttar Pradesh,CHK,1.31,0
+36,UP,Maharashtra,DEN,1.25,0
+48,OR,Maharashtra,DEN,4.53,1
+32,KA,Uttar Pradesh,DEN,4.21,1
+28,GJ,Maharashtra,MAL,2.53,1
+17,GJ,Odisha,CHK,2.23,1
+2,TN,Rajasthan,MAL,3.77,1
+20,MH,Bihar,CHK,0.47,0
+30,MH,Gujarat,MAL,0.5,0
+48,TN,Odisha,MAL,0.5,0
+2,MH,Gujarat,MAL,2.45,1
+44,UP,Bihar,DEN,1.38,0
+14,AP,Gujarat,DEN,4.13,1
+16,UP,Rajasthan,DEN,3.33,1
+11,KA,Tamil Nadu,CHK,4.85,1
+7,GJ,Rajasthan,CHK,4.52,1
+28,KA,Odisha,CHK,1.27,0
+12,AP,Bihar,MAL,1.39,0
+38,MH,Maharashtra,DEN,4.67,1
+33,BH,Odisha,DEN,4.41,1
+9,GJ,Karnataka,MAL,1.31,0
+25,OR,Uttar Pradesh,MAL,4.81,1
+13,KA,Tamil Nadu,CHK,4.9,1
+51,AP,Gujarat,MAL,3.36,1
+7,MH,Uttar Pradesh,CHK,1.4,0
+10,WB,Gujarat,CHK,1.4,0
+14,MH,West Bengal,MAL,0.78,0
+1,KA,Karnataka,MAL,2.66,1
+45,AP,Rajasthan,MAL,2.49,1
+42,GJ,Rajasthan,CHK,0.56,0
+33,OR,Karnataka,CHK,2.21,1
+41,BH,Bihar,MAL,1.03,0
+39,GJ,West Bengal,CHK,4.87,1
+4,RJ,Tamil Nadu,MAL,0.99,0
+29,WB,West Bengal,DEN,0.35,0
+42,OR,West Bengal,CHK,0.58,0
+17,MH,Karnataka,DEN,2.35,1
+39,MH,West Bengal,DEN,0.7,0
+15,TN,Andhra Pradesh,MAL,4.49,1
+16,GJ,West Bengal,DEN,1.12,0
+28,WB,West Bengal,CHK,2.12,1
+11,KA,Gujarat,CHK,3.1,1
+45,BH,West Bengal,MAL,1.32,0
+52,WB,Odisha,MAL,2.12,1
+10,OR,Gujarat,MAL,3.7,1
+21,GJ,Karnataka,CHK,0.23,0
+35,MH,Karnataka,CHK,2.16,1
+5,WB,Andhra Pradesh,MAL,3.83,1
+24,TN,West Bengal,MAL,1.48,0
+32,TN,Gujarat,MAL,3.18,1
+42,KA,Rajasthan,CHK,0.85,0
+16,TN,Gujarat,CHK,0.9,0
+48,AP,Karnataka,DEN,3.99,1
+19,MH,Uttar Pradesh,DEN,1.45,0
+30,GJ,Bihar,MAL,2.64,1
+32,AP,Odisha,MAL,0.9,0
+5,BH,Gujarat,MAL,1.32,0
+10,UP,Maharashtra,DEN,3.58,1
+32,OR,Tamil Nadu,DEN,3.27,1
+4,GJ,Bihar,MAL,1.35,0
+7,WB,Bihar,MAL,0.66,0
+10,KA,Odisha,MAL,4.8,1
+13,RJ,Odisha,DEN,0.97,0
+42,KA,Maharashtra,MAL,3.25,1
+22,BH,Rajasthan,CHK,0.86,0
+38,MH,Odisha,CHK,1.23,0
+51,BH,Tamil Nadu,MAL,1.11,0
+46,TN,Gujarat,MAL,2.25,1
+30,AP,Odisha,CHK,2.83,1
+9,OR,Tamil Nadu,MAL,3.79,1
+42,MH,Gujarat,MAL,0.67,0
+12,GJ,Tamil Nadu,CHK,1.42,0
+28,WB,Rajasthan,CHK,1.19,0
+48,RJ,West Bengal,DEN,2.97,1
+26,TN,Andhra Pradesh,MAL,0.44,0
+16,GJ,Tamil Nadu,CHK,0.97,0
+13,WB,Tamil Nadu,DEN,0.77,0
+48,RJ,Odisha,MAL,3.72,1
+20,RJ,Rajasthan,DEN,2.96,1
+32,MH,Bihar,MAL,0.63,0
+52,OR,Gujarat,MAL,2.76,1
+35,UP,Andhra Pradesh,MAL,1.35,0
+28,WB,Rajasthan,DEN,0.68,0
+20,BH,Gujarat,CHK,4.41,1
+27,GJ,West Bengal,CHK,0.99,0
+31,BH,Uttar Pradesh,MAL,1.38,0
+44,KA,Karnataka,DEN,3.77,1
+5,MH,Bihar,CHK,3.23,1
+39,RJ,Karnataka,MAL,1.04,0
+29,GJ,Gujarat,MAL,4.28,1
+4,KA,Uttar Pradesh,MAL,2.3,1
+19,BH,Gujarat,CHK,0.38,0
+25,WB,West Bengal,MAL,1.28,0
+31,OR,Rajasthan,DEN,1.42,0
+7,WB,Maharashtra,MAL,1.21,0
+51,BH,Tamil Nadu,CHK,3.91,1
+36,WB,Karnataka,MAL,3.06,1
+9,WB,Rajasthan,MAL,4.23,1
+12,OR,Gujarat,MAL,0.86,0
+51,GJ,Tamil Nadu,MAL,0.87,0
+24,OR,Rajasthan,CHK,3.13,1
+35,UP,West Bengal,MAL,4.03,1
+44,KA,Rajasthan,CHK,3.53,1
+47,UP,Uttar Pradesh,CHK,1.36,0
+32,BH,Tamil Nadu,MAL,1.11,0
+36,KA,Andhra Pradesh,CHK,3.19,1
+10,OR,Tamil Nadu,CHK,0.73,0
+17,UP,Andhra Pradesh,DEN,1.44,0
+11,WB,Tamil Nadu,CHK,1.31,0
+50,GJ,Odisha,DEN,2.15,1
+49,RJ,Odisha,DEN,4.3,1
+23,AP,Uttar Pradesh,MAL,1.23,0
+28,WB,Gujarat,MAL,0.84,0
+36,KA,Maharashtra,CHK,0.16,0
+35,RJ,Tamil Nadu,MAL,3.97,1
+48,BH,Andhra Pradesh,MAL,0.6,0
+28,RJ,Karnataka,CHK,4.64,1
+48,RJ,Karnataka,MAL,1.04,0
+11,UP,Bihar,MAL,0.1,0
+47,UP,Andhra Pradesh,CHK,0.68,0
+34,OR,Tamil Nadu,CHK,0.6,0
+21,GJ,Tamil Nadu,DEN,3.99,1
+24,GJ,Bihar,DEN,1.48,0
+15,BH,Andhra Pradesh,DEN,3.56,1
+35,TN,Andhra Pradesh,MAL,2.21,1
+7,GJ,Uttar Pradesh,CHK,3.84,1
+20,WB,Maharashtra,DEN,3.69,1
+47,GJ,West Bengal,CHK,1.31,0
+35,TN,Gujarat,MAL,3.47,1
+45,OR,Karnataka,MAL,0.19,0
+3,TN,Andhra Pradesh,MAL,4.38,1
+12,KA,Maharashtra,DEN,3.39,1
+23,KA,West Bengal,MAL,3.12,1
+35,WB,Odisha,DEN,0.31,0
+21,WB,Gujarat,DEN,2.75,1
+7,RJ,Gujarat,DEN,4.08,1
+19,OR,Tamil Nadu,DEN,0.37,0
+5,GJ,Tamil Nadu,DEN,3.85,1
+44,UP,Maharashtra,MAL,3.81,1
+42,UP,Odisha,CHK,0.12,0
+33,GJ,Uttar Pradesh,MAL,0.85,0
+16,AP,Karnataka,DEN,0.27,0
+32,AP,Maharashtra,DEN,2.78,1
+8,MH,Maharashtra,DEN,0.49,0
+38,WB,Karnataka,MAL,4.54,1
+1,BH,Karnataka,DEN,4.35,1
+51,GJ,Gujarat,CHK,0.32,0
+22,RJ,Bihar,DEN,2.48,1
+26,BH,Uttar Pradesh,CHK,1.36,0
+20,UP,West Bengal,DEN,0.45,0
+22,UP,Karnataka,DEN,2.21,1
+51,MH,Karnataka,DEN,3.27,1
+19,RJ,Tamil Nadu,MAL,3.52,1
+36,WB,Karnataka,MAL,1.33,0
+32,OR,Rajasthan,CHK,1.27,0
+9,RJ,Rajasthan,CHK,2.4,1
+36,TN,Odisha,CHK,2.06,1
+51,WB,Rajasthan,DEN,0.25,0
+37,UP,Andhra Pradesh,MAL,0.21,0
+51,GJ,Rajasthan,CHK,0.81,0
+37,UP,Tamil Nadu,CHK,0.39,0
+37,OR,Uttar Pradesh,DEN,4.09,1
+16,TN,Tamil Nadu,MAL,2.58,1
+48,BH,Maharashtra,CHK,4.73,1
+27,OR,Gujarat,MAL,2.8,1
+36,TN,Uttar Pradesh,DEN,4.54,1
+47,OR,Uttar Pradesh,CHK,3.9,1
+30,KA,West Bengal,DEN,0.94,0
+25,WB,Tamil Nadu,MAL,2.98,1
+3,TN,Karnataka,MAL,1.4,0
+3,RJ,West Bengal,MAL,4.21,1
+43,AP,Gujarat,DEN,0.71,0
+42,KA,West Bengal,MAL,1.04,0
+40,BH,Maharashtra,DEN,4.86,1
+37,GJ,Odisha,DEN,0.39,0
+4,AP,Bihar,MAL,1.43,0
+12,AP,Odisha,MAL,0.72,0
+19,MH,West Bengal,MAL,3.27,1
+15,WB,Gujarat,DEN,0.48,0
+5,AP,Gujarat,DEN,0.57,0
+23,MH,Rajasthan,DEN,1.31,0
+43,GJ,Gujarat,MAL,0.83,0
+30,TN,Gujarat,MAL,3.29,1
+42,WB,Odisha,DEN,3.63,1
+17,WB,West Bengal,CHK,1.04,0
+47,GJ,Gujarat,CHK,1.11,0
+16,BH,West Bengal,CHK,3.46,1
+46,MH,Odisha,MAL,2.97,1
+14,AP,Tamil Nadu,DEN,0.49,0
+49,WB,Bihar,DEN,3.75,1
+19,UP,West Bengal,CHK,1.3,0
+44,BH,Tamil Nadu,DEN,1.32,0
+18,KA,Andhra Pradesh,MAL,0.34,0
+52,KA,Bihar,CHK,4.35,1
+49,GJ,Karnataka,DEN,3.71,1
+10,UP,West Bengal,MAL,4.42,1
+30,KA,Uttar Pradesh,CHK,4.8,1
+32,AP,Karnataka,DEN,0.37,0
+31,RJ,Uttar Pradesh,CHK,1.36,0
+3,UP,Rajasthan,CHK,4.8,1
+5,OR,Bihar,DEN,4.57,1
+17,BH,Tamil Nadu,MAL,4.05,1
+32,BH,Uttar Pradesh,DEN,2.73,1
+33,MH,Maharashtra,DEN,4.48,1
+38,WB,Karnataka,DEN,3.26,1
+39,BH,Andhra Pradesh,MAL,4.63,1
+11,KA,Andhra Pradesh,CHK,0.77,0
+23,WB,Maharashtra,MAL,1.41,0
+47,RJ,West Bengal,MAL,2.66,1
+2,AP,Rajasthan,CHK,0.42,0
+6,UP,Tamil Nadu,CHK,0.54,0
+10,UP,Uttar Pradesh,CHK,3.95,1
+45,MH,Odisha,DEN,2.86,1
+18,MH,Bihar,MAL,0.67,0
+5,KA,Karnataka,CHK,2.68,1
+42,TN,Andhra Pradesh,CHK,2.89,1
+45,BH,Tamil Nadu,CHK,0.96,0
+16,TN,Odisha,CHK,4.42,1
+50,TN,Gujarat,DEN,4.45,1
+3,UP,Odisha,DEN,4.03,1
+31,WB,Rajasthan,CHK,0.67,0
+16,UP,Uttar Pradesh,DEN,3.41,1
+41,AP,Maharashtra,DEN,4.58,1
+34,MH,Maharashtra,DEN,0.27,0
+7,KA,Karnataka,CHK,2.54,1
+20,BH,Karnataka,CHK,0.97,0
+5,AP,Maharashtra,DEN,0.2,0
+24,MH,Uttar Pradesh,DEN,0.45,0
+48,OR,Tamil Nadu,MAL,0.7,0
+45,WB,Karnataka,CHK,0.63,0
+12,MH,Bihar,MAL,1.44,0
+25,RJ,Maharashtra,MAL,2.22,1
+20,KA,Odisha,DEN,0.55,0
+11,GJ,Uttar Pradesh,MAL,0.14,0
+34,MH,Rajasthan,CHK,2.47,1
+34,AP,Bihar,MAL,1.24,0
+40,UP,Bihar,DEN,1.34,0
+22,WB,West Bengal,MAL,1.05,0
+2,KA,Tamil Nadu,DEN,3.06,1
+42,GJ,Maharashtra,DEN,4.07,1
+6,BH,Odisha,CHK,0.67,0
+16,RJ,Odisha,CHK,2.21,1
+33,KA,Rajasthan,MAL,3.87,1
+6,BH,Rajasthan,MAL,0.75,0
+39,AP,Maharashtra,CHK,3.78,1
+39,BH,Odisha,DEN,0.95,0
+31,AP,Andhra Pradesh,MAL,4.15,1
+45,OR,Andhra Pradesh,DEN,3.65,1
+39,KA,Odisha,MAL,0.55,0
+6,MH,Tamil Nadu,DEN,3.47,1
+44,AP,Uttar Pradesh,DEN,1.25,0
+47,AP,Odisha,DEN,2.92,1
+41,WB,Odisha,CHK,0.78,0
+29,BH,Maharashtra,MAL,3.26,1
+30,GJ,West Bengal,MAL,1.38,0
+48,OR,Andhra Pradesh,CHK,1.35,0
+43,BH,Odisha,MAL,0.72,0
+48,KA,Bihar,CHK,2.48,1
+33,UP,Uttar Pradesh,DEN,0.64,0
+13,RJ,Andhra Pradesh,DEN,0.16,0
+28,AP,Uttar Pradesh,DEN,2.56,1
+26,GJ,Bihar,MAL,4.23,1
+30,AP,Bihar,CHK,3.24,1
+16,WB,Uttar Pradesh,MAL,3.12,1
+3,RJ,Tamil Nadu,MAL,1.36,0
+51,AP,Karnataka,CHK,4.17,1
+52,OR,West Bengal,DEN,3.75,1
+44,KA,West Bengal,CHK,4.91,1
+19,WB,Rajasthan,DEN,4.08,1
+11,KA,Odisha,MAL,4.63,1
+3,MH,Maharashtra,DEN,4.46,1
+32,WB,Gujarat,CHK,3.45,1
+45,KA,Odisha,MAL,4.0,1
+49,OR,Maharashtra,CHK,2.2,1
+21,AP,Uttar Pradesh,DEN,1.02,0
+43,RJ,Tamil Nadu,MAL,0.24,0
+26,BH,Andhra Pradesh,CHK,3.15,1
+7,RJ,Gujarat,DEN,2.41,1
+40,RJ,West Bengal,CHK,3.16,1
+33,RJ,Uttar Pradesh,CHK,2.81,1
+13,RJ,Bihar,CHK,0.74,0
+47,OR,Tamil Nadu,MAL,0.96,0
+27,GJ,Bihar,DEN,1.18,0
+34,KA,Maharashtra,CHK,2.74,1
+26,OR,Rajasthan,MAL,3.4,1
+2,AP,Tamil Nadu,DEN,1.17,0
+1,BH,Tamil Nadu,MAL,1.17,0
+39,GJ,Gujarat,MAL,3.36,1
+33,OR,West Bengal,DEN,2.87,1
+8,OR,Bihar,MAL,2.31,1
+41,MH,Rajasthan,CHK,3.82,1
+31,MH,Maharashtra,DEN,0.37,0
+50,OR,Rajasthan,MAL,3.94,1
+43,KA,Uttar Pradesh,DEN,0.61,0
+37,TN,Uttar Pradesh,CHK,2.98,1
+49,KA,Odisha,CHK,4.62,1
+8,UP,Rajasthan,DEN,4.76,1
+27,TN,Tamil Nadu,MAL,1.4,0
+23,BH,West Bengal,MAL,4.37,1
+11,KA,Maharashtra,DEN,1.45,0
+8,AP,Maharashtra,CHK,4.18,1
+18,MH,Bihar,CHK,0.13,0
+24,WB,Rajasthan,CHK,2.04,1
+32,BH,Uttar Pradesh,DEN,3.04,1
+37,TN,Tamil Nadu,MAL,0.13,0
+52,BH,Karnataka,MAL,1.34,0
+1,RJ,Maharashtra,CHK,0.16,0
+2,TN,West Bengal,CHK,1.18,0
+28,KA,Odisha,CHK,2.86,1
+51,MH,Uttar Pradesh,MAL,0.56,0
+26,TN,Gujarat,MAL,0.98,0
+29,RJ,Rajasthan,CHK,4.91,1
+52,UP,Maharashtra,CHK,3.51,1
+33,BH,West Bengal,DEN,4.27,1
+23,OR,Uttar Pradesh,MAL,1.45,0
+47,GJ,Gujarat,DEN,0.31,0
+38,KA,Odisha,CHK,0.76,0
+4,UP,Uttar Pradesh,MAL,3.03,1
+41,MH,Tamil Nadu,CHK,3.61,1
+26,RJ,Uttar Pradesh,MAL,0.17,0
+18,UP,Odisha,DEN,0.74,0
+33,WB,Andhra Pradesh,MAL,0.28,0
+35,TN,Odisha,DEN,3.62,1
+33,WB,Karnataka,CHK,0.62,0
+20,OR,Tamil Nadu,DEN,3.7,1
+38,WB,Karnataka,MAL,2.66,1
+28,UP,Odisha,DEN,3.79,1
+30,UP,Bihar,MAL,4.0,1
+33,MH,Tamil Nadu,DEN,4.51,1
+1,BH,Odisha,DEN,3.02,1
+20,UP,Gujarat,MAL,0.42,0
+32,BH,Uttar Pradesh,DEN,1.49,0
+12,TN,Gujarat,CHK,0.71,0
+24,BH,Odisha,MAL,3.52,1
+31,RJ,Rajasthan,DEN,4.22,1
+17,UP,Andhra Pradesh,DEN,4.71,1
+41,UP,Rajasthan,CHK,0.91,0
+38,TN,West Bengal,DEN,0.78,0
+4,TN,Rajasthan,CHK,3.98,1
+4,BH,Uttar Pradesh,CHK,4.72,1
+21,UP,Gujarat,CHK,0.84,0
+39,GJ,Bihar,CHK,4.12,1
+37,KA,Rajasthan,MAL,0.15,0
+15,WB,Karnataka,CHK,0.88,0
+21,RJ,Andhra Pradesh,DEN,0.4,0
+36,KA,Gujarat,CHK,0.36,0
+18,KA,Andhra Pradesh,CHK,2.21,1
+3,KA,Bihar,MAL,3.12,1
+31,RJ,West Bengal,DEN,1.01,0
+30,GJ,Andhra Pradesh,CHK,1.04,0
+38,UP,West Bengal,DEN,0.43,0
+1,AP,Maharashtra,DEN,4.78,1
+7,GJ,Andhra Pradesh,DEN,2.67,1
+40,AP,Gujarat,CHK,3.11,1
+41,WB,Karnataka,CHK,0.66,0
+1,RJ,Odisha,CHK,4.36,1
+52,BH,Maharashtra,DEN,1.01,0
+36,GJ,Maharashtra,CHK,0.35,0
+21,AP,West Bengal,MAL,1.0,0
+44,WB,West Bengal,MAL,4.11,1
+23,OR,Rajasthan,CHK,0.61,0
+40,GJ,Tamil Nadu,MAL,2.57,1
+1,TN,Karnataka,CHK,1.15,0
+38,GJ,Maharashtra,DEN,2.94,1
+1,RJ,Maharashtra,DEN,4.61,1
+37,AP,West Bengal,DEN,2.25,1
+30,TN,Andhra Pradesh,DEN,0.41,0
+45,KA,Rajasthan,MAL,0.94,0
+47,UP,Maharashtra,CHK,4.25,1
+29,RJ,Tamil Nadu,DEN,0.58,0
+4,RJ,Uttar Pradesh,DEN,4.14,1
+17,OR,Bihar,MAL,0.15,0
+35,MH,Bihar,MAL,0.61,0
+2,WB,West Bengal,CHK,1.03,0
+14,TN,Rajasthan,CHK,0.48,0
+17,TN,Andhra Pradesh,MAL,4.72,1
+17,MH,Odisha,DEN,1.21,0
+12,WB,Uttar Pradesh,DEN,2.56,1
+51,TN,Gujarat,DEN,0.28,0
+49,BH,West Bengal,DEN,0.81,0
+30,TN,Karnataka,CHK,1.18,0
+29,WB,Karnataka,CHK,0.63,0
+17,BH,Bihar,MAL,0.26,0
+52,RJ,Uttar Pradesh,CHK,0.25,0
+24,OR,Gujarat,MAL,2.93,1
+47,BH,Bihar,DEN,3.15,1
+32,MH,Rajasthan,DEN,4.53,1
+49,WB,West Bengal,CHK,0.16,0
+47,UP,Andhra Pradesh,CHK,0.47,0
+24,TN,Maharashtra,MAL,2.33,1
+17,AP,Tamil Nadu,MAL,2.31,1
+43,OR,Andhra Pradesh,DEN,0.75,0
+39,KA,Andhra Pradesh,DEN,4.51,1
+23,WB,Maharashtra,MAL,0.13,0
+31,AP,Rajasthan,MAL,1.13,0
+25,OR,West Bengal,MAL,0.29,0
+39,MH,West Bengal,DEN,4.35,1
+43,OR,Gujarat,DEN,1.29,0
+35,OR,Maharashtra,CHK,0.2,0
+16,TN,Tamil Nadu,DEN,3.6,1
+18,MH,Maharashtra,CHK,3.84,1
+37,MH,Gujarat,MAL,2.83,1
+12,BH,Rajasthan,CHK,4.41,1
+12,AP,Rajasthan,DEN,4.59,1
+9,TN,Tamil Nadu,MAL,0.23,0
+32,OR,West Bengal,CHK,1.22,0
+42,AP,Gujarat,MAL,0.31,0
+27,WB,Tamil Nadu,MAL,0.49,0
+7,WB,Rajasthan,CHK,1.04,0
+42,AP,Uttar Pradesh,DEN,2.19,1
+16,GJ,Rajasthan,MAL,0.28,0
+32,BH,Andhra Pradesh,MAL,0.22,0
+29,RJ,Bihar,MAL,2.51,1
+32,WB,Gujarat,CHK,4.95,1
+33,AP,Rajasthan,MAL,0.75,0
+16,UP,Karnataka,CHK,0.83,0
+52,AP,Andhra Pradesh,MAL,0.97,0
+43,UP,Andhra Pradesh,DEN,1.42,0
+22,RJ,Gujarat,CHK,0.66,0
+1,UP,Maharashtra,MAL,3.14,1
+10,BH,Maharashtra,DEN,4.79,1
+1,GJ,Gujarat,DEN,0.21,0
+42,UP,Bihar,DEN,0.42,0
+12,UP,Odisha,CHK,2.87,1
+35,GJ,Odisha,MAL,2.46,1
+18,GJ,Odisha,CHK,0.53,0
+15,KA,Maharashtra,DEN,0.46,0
+23,RJ,Gujarat,CHK,1.07,0
+45,BH,Andhra Pradesh,MAL,1.4,0
+34,AP,Karnataka,MAL,4.82,1
+40,AP,Uttar Pradesh,MAL,0.44,0
+40,KA,Uttar Pradesh,DEN,4.36,1
+7,UP,Maharashtra,CHK,0.93,0
+27,KA,Karnataka,DEN,2.67,1
+45,RJ,Maharashtra,CHK,1.14,0
+19,WB,Rajasthan,DEN,2.03,1
+49,MH,West Bengal,MAL,4.29,1
+26,RJ,Karnataka,CHK,1.11,0
+19,OR,Maharashtra,MAL,0.95,0
+44,AP,Odisha,MAL,4.83,1
+29,AP,Bihar,MAL,0.71,0
+48,MH,Karnataka,DEN,0.17,0
+7,MH,Bihar,MAL,3.18,1
+48,BH,Tamil Nadu,CHK,4.99,1
+38,GJ,Bihar,MAL,1.04,0
+46,WB,Tamil Nadu,CHK,0.73,0
+15,MH,Maharashtra,MAL,0.13,0
+33,WB,Gujarat,CHK,3.17,1
+3,OR,Andhra Pradesh,DEN,4.28,1
+7,KA,Andhra Pradesh,MAL,1.37,0
+14,GJ,Maharashtra,MAL,1.41,0
+36,AP,Maharashtra,MAL,0.37,0
+32,TN,Karnataka,CHK,0.38,0
+47,RJ,Andhra Pradesh,CHK,0.73,0
+48,WB,Andhra Pradesh,MAL,0.78,0
+12,OR,Bihar,CHK,1.11,0
+42,AP,Rajasthan,DEN,4.59,1
+18,KA,Andhra Pradesh,CHK,1.17,0
+23,MH,West Bengal,MAL,1.27,0
+12,KA,Odisha,CHK,2.98,1
+14,WB,Andhra Pradesh,CHK,2.1,1
+31,AP,Tamil Nadu,CHK,4.14,1
+43,OR,Karnataka,MAL,3.73,1
+31,KA,Karnataka,CHK,1.3,0
+35,AP,Tamil Nadu,DEN,2.35,1
+16,GJ,Odisha,DEN,0.23,0
+36,OR,Karnataka,DEN,1.06,0
+8,GJ,Andhra Pradesh,MAL,4.08,1
+26,BH,Maharashtra,CHK,0.95,0
+2,RJ,Bihar,DEN,3.66,1
+21,WB,West Bengal,CHK,2.61,1
+36,KA,Bihar,DEN,3.67,1
+23,UP,Tamil Nadu,MAL,1.24,0
+13,WB,Bihar,MAL,2.31,1
+15,WB,Uttar Pradesh,MAL,2.02,1
+22,AP,Andhra Pradesh,CHK,4.3,1
+1,TN,Uttar Pradesh,CHK,2.82,1
+22,TN,Gujarat,CHK,1.49,0
+35,WB,West Bengal,CHK,4.47,1
+1,MH,West Bengal,CHK,3.43,1
+43,OR,Andhra Pradesh,MAL,0.84,0
+26,AP,Rajasthan,MAL,0.28,0
+26,OR,Maharashtra,DEN,0.27,0
+36,BH,Odisha,MAL,2.59,1
+26,MH,Odisha,CHK,0.65,0
+31,AP,Tamil Nadu,MAL,1.35,0
+33,MH,Rajasthan,MAL,0.2,0
+43,RJ,Tamil Nadu,MAL,1.47,0
+28,MH,Karnataka,DEN,0.57,0
+6,GJ,Andhra Pradesh,MAL,0.38,0
+52,MH,Odisha,MAL,0.74,0
+46,GJ,West Bengal,DEN,2.31,1
+28,TN,Tamil Nadu,CHK,2.03,1
+8,WB,Rajasthan,CHK,2.46,1
+42,BH,Odisha,MAL,0.54,0
+36,AP,West Bengal,CHK,0.63,0
+17,RJ,Odisha,DEN,1.31,0
+28,RJ,Odisha,MAL,3.19,1
+43,AP,Maharashtra,CHK,0.6,0
+4,OR,Tamil Nadu,MAL,3.11,1
+23,KA,Tamil Nadu,MAL,4.59,1
+14,AP,Bihar,CHK,1.09,0
+28,BH,Odisha,DEN,0.47,0
+43,KA,Andhra Pradesh,DEN,2.42,1
+20,TN,West Bengal,MAL,0.6,0
+2,RJ,Bihar,MAL,4.71,1
+20,MH,Odisha,DEN,1.17,0
+7,BH,Bihar,DEN,4.56,1
+44,KA,Karnataka,DEN,2.91,1
+2,TN,Karnataka,MAL,3.2,1
+8,UP,Rajasthan,MAL,3.64,1
+23,MH,Bihar,DEN,4.82,1
+29,MH,Tamil Nadu,MAL,0.96,0
+38,RJ,Bihar,CHK,3.19,1
+7,GJ,Tamil Nadu,DEN,4.11,1
+27,BH,Tamil Nadu,CHK,4.48,1
+26,UP,Andhra Pradesh,DEN,2.83,1
+19,RJ,Tamil Nadu,MAL,0.87,0
+2,TN,Maharashtra,CHK,4.51,1
+26,OR,Maharashtra,CHK,4.9,1
+40,AP,Rajasthan,MAL,1.03,0
+30,WB,Maharashtra,DEN,4.81,1
+1,MH,Karnataka,MAL,0.95,0
+13,MH,Karnataka,CHK,4.41,1
+29,TN,Andhra Pradesh,DEN,0.36,0
+26,MH,Maharashtra,MAL,0.81,0
+29,UP,Karnataka,MAL,2.63,1
+27,GJ,Odisha,DEN,2.0,1
+21,BH,Tamil Nadu,MAL,3.37,1
+28,UP,Andhra Pradesh,DEN,3.74,1
+46,AP,Uttar Pradesh,CHK,3.06,1
+41,RJ,Uttar Pradesh,CHK,4.04,1
+26,GJ,Rajasthan,DEN,4.03,1
+18,UP,Tamil Nadu,CHK,4.63,1
+33,UP,West Bengal,DEN,4.97,1
+47,KA,Tamil Nadu,CHK,0.57,0
+17,TN,Tamil Nadu,MAL,3.61,1
+52,OR,Rajasthan,CHK,0.7,0
+14,BH,Karnataka,DEN,1.4,0
+8,GJ,Bihar,MAL,2.54,1
+49,UP,Uttar Pradesh,MAL,2.86,1
+14,WB,Gujarat,DEN,2.21,1
+28,BH,Uttar Pradesh,CHK,0.63,0
+34,MH,Karnataka,DEN,3.82,1
+15,OR,Andhra Pradesh,CHK,4.76,1
+4,WB,Odisha,CHK,2.91,1
+32,AP,Andhra Pradesh,CHK,3.96,1
+13,GJ,Gujarat,CHK,4.83,1
+36,MH,Rajasthan,CHK,3.4,1
+38,AP,Tamil Nadu,MAL,0.77,0
+46,RJ,Uttar Pradesh,MAL,1.23,0
+34,WB,Maharashtra,CHK,0.43,0
+19,UP,Andhra Pradesh,MAL,0.55,0
+14,OR,Karnataka,CHK,0.4,0
+16,MH,Rajasthan,DEN,3.79,1
+43,TN,Karnataka,DEN,0.77,0
+42,AP,Maharashtra,MAL,2.62,1
+44,AP,Andhra Pradesh,DEN,1.31,0
+43,OR,Karnataka,CHK,0.71,0
+41,RJ,Andhra Pradesh,CHK,3.09,1
+44,GJ,Odisha,MAL,0.49,0
+23,WB,West Bengal,DEN,1.49,0
+39,AP,Rajasthan,MAL,3.73,1
+48,OR,Gujarat,CHK,2.01,1
+15,UP,Gujarat,DEN,0.78,0
+16,OR,Bihar,MAL,1.1,0
+23,AP,Bihar,DEN,1.05,0
+44,WB,Rajasthan,MAL,1.32,0
+14,KA,Andhra Pradesh,DEN,0.98,0
+21,MH,West Bengal,DEN,3.83,1
+2,RJ,Bihar,CHK,1.26,0
+4,OR,Gujarat,CHK,2.6,1
+20,OR,Gujarat,CHK,0.92,0
+43,WB,West Bengal,MAL,0.5,0
+9,AP,Gujarat,DEN,1.34,0
+52,TN,Tamil Nadu,CHK,2.75,1
+46,OR,Rajasthan,CHK,3.12,1
+46,KA,Andhra Pradesh,MAL,0.26,0
+42,OR,Maharashtra,MAL,0.95,0
+20,WB,Karnataka,DEN,4.06,1
+36,AP,Tamil Nadu,MAL,4.99,1
+39,TN,Tamil Nadu,MAL,4.39,1
+4,RJ,Maharashtra,DEN,3.29,1
+3,RJ,Maharashtra,CHK,3.79,1
+14,GJ,Karnataka,DEN,3.25,1
+6,GJ,Karnataka,DEN,2.81,1
+25,UP,Gujarat,MAL,1.36,0
+49,TN,Uttar Pradesh,CHK,4.64,1
+13,UP,Odisha,CHK,2.06,1
+45,UP,Bihar,CHK,0.31,0
+26,AP,Tamil Nadu,MAL,2.98,1
+3,GJ,Maharashtra,DEN,0.19,0
+48,RJ,Rajasthan,CHK,1.2,0
+16,UP,Gujarat,MAL,4.22,1
+41,OR,Karnataka,CHK,0.56,0
+48,TN,Maharashtra,CHK,2.32,1
+43,UP,West Bengal,MAL,2.36,1
+44,OR,Uttar Pradesh,CHK,2.51,1
+17,RJ,Odisha,DEN,0.58,0
+8,TN,Gujarat,MAL,0.97,0
+29,OR,West Bengal,CHK,4.61,1
+25,RJ,Uttar Pradesh,MAL,3.35,1
+5,OR,West Bengal,CHK,0.24,0
+24,UP,Rajasthan,CHK,4.52,1
+34,RJ,Uttar Pradesh,DEN,2.93,1
+33,MH,Uttar Pradesh,CHK,1.33,0
+10,WB,Uttar Pradesh,MAL,4.89,1
+45,MH,Uttar Pradesh,DEN,2.72,1
+41,BH,Maharashtra,MAL,0.52,0
+13,BH,Andhra Pradesh,DEN,3.52,1
+21,BH,Rajasthan,CHK,2.71,1
+7,AP,Odisha,DEN,0.84,0
+24,UP,Gujarat,CHK,4.21,1
+11,WB,Uttar Pradesh,DEN,0.8,0
+37,GJ,Andhra Pradesh,DEN,2.86,1
+21,MH,Gujarat,MAL,1.18,0
+25,AP,Karnataka,CHK,1.27,0
+45,RJ,West Bengal,DEN,0.9,0
+43,KA,West Bengal,MAL,0.55,0
+28,MH,Gujarat,MAL,0.37,0
+24,TN,Uttar Pradesh,MAL,0.22,0
+29,AP,Uttar Pradesh,DEN,1.49,0
+27,KA,Rajasthan,DEN,3.08,1
+28,WB,Odisha,DEN,1.23,0
+52,AP,Rajasthan,CHK,2.86,1
+26,OR,West Bengal,MAL,2.45,1
+11,GJ,Gujarat,MAL,4.57,1
+14,GJ,Maharashtra,MAL,1.01,0
+4,RJ,Rajasthan,DEN,1.33,0
+50,GJ,Karnataka,DEN,3.28,1
+49,BH,Andhra Pradesh,DEN,2.38,1
+10,MH,Andhra Pradesh,CHK,0.73,0
+48,AP,Karnataka,MAL,2.9,1
+15,TN,Rajasthan,DEN,2.79,1
+41,TN,Karnataka,DEN,4.66,1
+28,WB,Bihar,MAL,2.76,1
+3,BH,Maharashtra,MAL,3.34,1
+23,OR,Maharashtra,DEN,4.02,1
+21,KA,Uttar Pradesh,DEN,0.22,0
+35,TN,Uttar Pradesh,CHK,3.06,1
+12,KA,Bihar,DEN,1.41,0
+9,BH,Uttar Pradesh,DEN,4.97,1
+22,AP,Karnataka,DEN,3.38,1
+12,OR,Rajasthan,MAL,1.13,0
+44,WB,Uttar Pradesh,CHK,3.99,1
+23,MH,Karnataka,DEN,3.78,1
+48,BH,Tamil Nadu,DEN,3.72,1
+52,UP,Tamil Nadu,CHK,3.22,1
+22,OR,Tamil Nadu,DEN,1.03,0
+42,BH,Uttar Pradesh,MAL,1.05,0
+39,WB,Bihar,DEN,3.9,1
+9,GJ,Uttar Pradesh,CHK,0.1,0
+14,WB,West Bengal,DEN,4.5,1
+21,TN,Karnataka,MAL,4.12,1
+13,MH,Gujarat,DEN,3.87,1
+47,BH,Bihar,MAL,3.67,1
+21,GJ,Andhra Pradesh,DEN,0.67,0
+30,WB,Maharashtra,MAL,1.0,0
+11,GJ,Maharashtra,MAL,4.51,1
+52,RJ,Rajasthan,DEN,2.05,1
+6,KA,Andhra Pradesh,DEN,0.73,0
+17,TN,Bihar,DEN,4.71,1
+27,OR,Rajasthan,CHK,2.55,1
+45,MH,Odisha,DEN,3.69,1
+4,MH,Uttar Pradesh,MAL,1.03,0
+47,AP,Maharashtra,CHK,0.29,0
+51,GJ,Rajasthan,CHK,3.93,1
+48,MH,Rajasthan,MAL,2.2,1
+5,MH,Odisha,CHK,0.4,0
+50,RJ,Uttar Pradesh,CHK,2.94,1
+1,WB,Gujarat,DEN,0.67,0
+23,GJ,Rajasthan,DEN,2.19,1
+36,MH,Odisha,MAL,0.37,0
+41,WB,Bihar,MAL,0.18,0
+50,KA,Bihar,DEN,0.91,0
+22,GJ,Rajasthan,CHK,4.41,1
+32,MH,Andhra Pradesh,CHK,4.51,1
+2,OR,Bihar,CHK,2.79,1
+52,GJ,Andhra Pradesh,MAL,3.52,1
+2,BH,Tamil Nadu,MAL,2.16,1
+6,GJ,Karnataka,DEN,1.15,0
+48,KA,Bihar,DEN,0.9,0
+46,WB,Odisha,CHK,1.27,0
+46,MH,Karnataka,MAL,1.42,0
+8,BH,Karnataka,DEN,0.51,0
+34,AP,Tamil Nadu,DEN,3.57,1
+19,OR,Gujarat,CHK,0.62,0
+24,RJ,Maharashtra,MAL,2.23,1
+28,UP,Gujarat,CHK,0.72,0
+14,UP,Gujarat,CHK,2.39,1
+14,WB,Odisha,MAL,3.06,1
+33,KA,Tamil Nadu,CHK,0.47,0
+40,UP,Gujarat,DEN,0.77,0
+1,GJ,Tamil Nadu,DEN,3.41,1
+29,RJ,Rajasthan,MAL,3.17,1
+49,UP,Gujarat,CHK,3.4,1
+36,WB,Tamil Nadu,MAL,1.44,0
+2,MH,Maharashtra,DEN,2.71,1
+12,OR,Karnataka,MAL,1.35,0
+32,BH,Rajasthan,MAL,3.06,1
+2,MH,Andhra Pradesh,CHK,3.47,1
+31,RJ,Maharashtra,CHK,2.1,1
+42,GJ,Gujarat,MAL,0.52,0
+26,RJ,Odisha,CHK,1.5,0
+21,AP,Odisha,CHK,4.42,1
+37,GJ,Karnataka,CHK,4.19,1
+23,RJ,Rajasthan,MAL,1.29,0
+46,WB,Andhra Pradesh,CHK,1.15,0
+37,BH,Andhra Pradesh,DEN,2.75,1
+40,UP,Karnataka,DEN,0.6,0
+4,KA,Bihar,DEN,1.19,0
+18,KA,Gujarat,CHK,1.26,0
+44,RJ,Uttar Pradesh,DEN,1.42,0
+33,RJ,Andhra Pradesh,DEN,1.2,0
+26,OR,Rajasthan,MAL,1.24,0
+37,KA,Bihar,CHK,2.83,1
+41,MH,Bihar,MAL,3.93,1
+26,TN,Gujarat,MAL,2.07,1
+52,WB,Odisha,DEN,0.47,0
+47,AP,Uttar Pradesh,DEN,0.39,0
+33,RJ,Odisha,CHK,1.11,0
+29,WB,Tamil Nadu,MAL,0.48,0
+26,WB,Andhra Pradesh,MAL,0.45,0
+37,OR,Rajasthan,DEN,5.0,1
+19,AP,Rajasthan,MAL,2.03,1
+51,AP,Tamil Nadu,MAL,4.2,1
+19,MH,West Bengal,MAL,0.73,0
+43,MH,Tamil Nadu,MAL,2.63,1
+48,TN,Odisha,MAL,2.36,1
+15,AP,Rajasthan,CHK,3.69,1
+25,WB,West Bengal,MAL,0.4,0
+23,KA,Uttar Pradesh,DEN,1.1,0
+39,TN,Karnataka,MAL,0.5,0
+19,AP,Karnataka,MAL,0.37,0
+7,TN,Maharashtra,CHK,0.37,0
+27,UP,Odisha,DEN,2.04,1
+37,AP,Odisha,DEN,4.01,1
+28,UP,Uttar Pradesh,CHK,3.5,1
+42,GJ,Uttar Pradesh,CHK,0.85,0
+36,UP,Maharashtra,MAL,4.03,1
+2,WB,Tamil Nadu,CHK,0.56,0
+44,TN,Maharashtra,CHK,0.95,0
+40,GJ,Andhra Pradesh,MAL,1.35,0
+27,AP,Bihar,CHK,3.16,1
+10,RJ,West Bengal,CHK,1.18,0
+4,OR,Rajasthan,DEN,1.14,0
+10,OR,West Bengal,DEN,1.03,0
+37,AP,Maharashtra,CHK,0.2,0
+22,MH,Tamil Nadu,CHK,1.19,0
+5,MH,Bihar,CHK,2.98,1
+19,MH,Tamil Nadu,DEN,1.01,0
+34,UP,Rajasthan,CHK,0.83,0
+18,BH,Karnataka,CHK,3.18,1
+4,GJ,West Bengal,CHK,0.17,0
+40,WB,Andhra Pradesh,MAL,4.37,1
+50,UP,West Bengal,DEN,0.56,0
+16,UP,Odisha,CHK,0.79,0
+44,RJ,Gujarat,DEN,1.03,0
+45,GJ,Uttar Pradesh,MAL,2.2,1
+24,BH,West Bengal,DEN,2.21,1
+50,OR,Bihar,MAL,0.32,0
+36,WB,Karnataka,DEN,2.34,1
+47,GJ,Tamil Nadu,CHK,2.69,1
+20,AP,Karnataka,DEN,0.9,0
+29,GJ,Karnataka,DEN,4.47,1
+9,AP,Maharashtra,DEN,1.05,0
+42,OR,Tamil Nadu,MAL,0.5,0
+5,MH,West Bengal,MAL,3.03,1
+18,AP,West Bengal,CHK,3.03,1
+6,AP,Gujarat,MAL,4.52,1
+46,GJ,Odisha,MAL,2.94,1
+30,TN,Uttar Pradesh,DEN,4.26,1
+32,MH,Maharashtra,DEN,0.21,0
+1,UP,West Bengal,CHK,2.16,1
+38,RJ,Rajasthan,DEN,3.48,1
+16,UP,Rajasthan,DEN,0.8,0
+16,TN,Tamil Nadu,CHK,4.29,1
+20,UP,Odisha,MAL,2.92,1
+9,RJ,Maharashtra,CHK,0.28,0
+10,TN,Odisha,MAL,1.27,0
+5,OR,Maharashtra,CHK,0.58,0
+50,RJ,Uttar Pradesh,CHK,3.76,1
+35,TN,Uttar Pradesh,DEN,3.65,1
+24,UP,West Bengal,DEN,0.5,0
+30,MH,Andhra Pradesh,CHK,5.0,1
+37,GJ,Andhra Pradesh,CHK,4.02,1
+8,MH,Uttar Pradesh,MAL,3.47,1
+13,BH,Bihar,MAL,3.53,1
+2,MH,Bihar,CHK,1.26,0
+26,MH,West Bengal,DEN,0.52,0
+2,GJ,Maharashtra,DEN,3.35,1
+29,WB,Gujarat,MAL,4.82,1
+18,OR,Uttar Pradesh,DEN,0.61,0
+37,GJ,Rajasthan,DEN,3.97,1
+9,MH,Tamil Nadu,MAL,1.08,0
+18,BH,Rajasthan,DEN,0.57,0
+33,UP,Gujarat,DEN,3.62,1
+16,UP,Tamil Nadu,CHK,0.98,0
+19,AP,Karnataka,MAL,2.98,1
+32,GJ,Rajasthan,DEN,1.25,0
+1,KA,Andhra Pradesh,MAL,3.95,1
+23,WB,Maharashtra,MAL,3.97,1
+29,MH,Uttar Pradesh,DEN,4.94,1
+21,BH,Odisha,DEN,4.47,1
+45,OR,Karnataka,CHK,3.97,1
+22,BH,Odisha,DEN,4.44,1
+9,AP,Karnataka,CHK,4.88,1
+11,TN,West Bengal,CHK,0.46,0
+15,TN,Andhra Pradesh,MAL,0.99,0
+21,OR,Odisha,DEN,0.72,0
+51,WB,Andhra Pradesh,MAL,2.24,1
+15,WB,Bihar,CHK,4.34,1
+16,OR,Karnataka,MAL,1.41,0
+45,WB,West Bengal,MAL,0.96,0
+45,AP,Uttar Pradesh,DEN,3.79,1
+48,BH,Maharashtra,CHK,4.86,1
+8,OR,Bihar,DEN,3.49,1
+3,UP,Uttar Pradesh,DEN,4.52,1
+20,OR,Odisha,CHK,0.61,0
+16,MH,Uttar Pradesh,CHK,2.7,1
+2,RJ,Uttar Pradesh,DEN,3.3,1
+52,AP,Uttar Pradesh,MAL,2.69,1
+32,GJ,Karnataka,MAL,3.08,1
+32,BH,Tamil Nadu,DEN,2.27,1
+42,KA,Bihar,CHK,2.35,1
+45,BH,Karnataka,DEN,0.67,0
+41,RJ,Maharashtra,CHK,1.41,0
+46,MH,Rajasthan,CHK,0.8,0
+14,GJ,Bihar,CHK,3.87,1
+20,AP,Rajasthan,CHK,0.82,0
+25,MH,Andhra Pradesh,CHK,1.42,0
+45,AP,Bihar,DEN,0.49,0
+45,OR,Tamil Nadu,DEN,2.98,1
+20,AP,West Bengal,CHK,0.42,0
+49,AP,Gujarat,CHK,3.61,1
+37,MH,Bihar,MAL,2.17,1
+3,RJ,Bihar,CHK,1.43,0
+35,AP,Rajasthan,CHK,2.2,1
+4,KA,Uttar Pradesh,CHK,4.12,1
+23,OR,Andhra Pradesh,MAL,1.0,0
+13,MH,Tamil Nadu,DEN,4.65,1
+13,GJ,Maharashtra,CHK,0.65,0
+5,AP,Rajasthan,MAL,1.41,0
+49,RJ,Bihar,CHK,2.02,1
+46,BH,Odisha,DEN,1.21,0
+2,KA,West Bengal,CHK,1.48,0
+4,WB,Odisha,CHK,1.23,0
+50,TN,Maharashtra,DEN,3.75,1
+21,UP,Rajasthan,MAL,4.63,1
+1,BH,Karnataka,CHK,3.0,1
+36,WB,Bihar,CHK,4.99,1
+11,AP,Odisha,CHK,4.32,1
+19,OR,Uttar Pradesh,MAL,0.98,0
+14,RJ,Andhra Pradesh,DEN,4.19,1
+41,RJ,Karnataka,DEN,1.48,0
+25,KA,West Bengal,CHK,0.65,0
+32,TN,Andhra Pradesh,DEN,0.86,0
+35,OR,Bihar,DEN,0.26,0
+6,BH,Odisha,CHK,1.0,0
+18,GJ,Uttar Pradesh,CHK,1.38,0
+30,WB,Maharashtra,CHK,2.17,1
+49,UP,Maharashtra,CHK,0.52,0
+25,KA,Tamil Nadu,CHK,1.03,0
+51,OR,Rajasthan,DEN,1.26,0
+35,BH,Bihar,DEN,0.57,0
+33,UP,Andhra Pradesh,CHK,0.97,0
+43,KA,Rajasthan,MAL,0.84,0
+6,KA,Rajasthan,DEN,0.24,0
+31,MH,Uttar Pradesh,DEN,2.77,1
+28,KA,Maharashtra,CHK,2.7,1
+34,TN,Andhra Pradesh,CHK,3.11,1
+22,TN,Andhra Pradesh,DEN,3.28,1
+12,WB,Odisha,MAL,1.04,0
+26,MH,Uttar Pradesh,MAL,4.48,1
+45,MH,Uttar Pradesh,CHK,0.22,0
+20,KA,Bihar,CHK,4.42,1
+12,BH,West Bengal,DEN,2.19,1
+41,GJ,Bihar,DEN,2.48,1
+13,GJ,West Bengal,DEN,2.59,1
+25,AP,Odisha,CHK,2.63,1
+39,BH,Uttar Pradesh,MAL,3.77,1
+45,AP,Gujarat,CHK,3.82,1
+29,BH,Odisha,MAL,1.49,0
+33,UP,Karnataka,MAL,4.25,1
+18,UP,Bihar,DEN,3.27,1
+7,UP,Tamil Nadu,DEN,0.46,0
+1,GJ,Karnataka,MAL,2.03,1
+22,WB,Tamil Nadu,DEN,3.54,1
+35,BH,Rajasthan,DEN,0.5,0
+44,UP,Uttar Pradesh,CHK,3.84,1
+24,UP,West Bengal,MAL,4.1,1
+4,AP,Maharashtra,MAL,0.15,0
+42,MH,Rajasthan,CHK,1.37,0
+6,MH,West Bengal,CHK,3.65,1
+8,TN,Karnataka,DEN,0.3,0
+28,TN,Karnataka,CHK,1.16,0
+44,TN,Maharashtra,DEN,0.91,0
+16,WB,Rajasthan,CHK,4.7,1
+37,WB,West Bengal,CHK,3.3,1
+28,UP,Karnataka,CHK,4.81,1
+17,TN,Bihar,DEN,0.26,0
+23,RJ,Maharashtra,MAL,4.24,1
+43,TN,Bihar,CHK,0.97,0
+10,OR,Bihar,CHK,4.51,1
+27,BH,Bihar,DEN,0.79,0
+19,GJ,Gujarat,CHK,0.26,0
+11,BH,Bihar,CHK,0.15,0
+8,KA,Maharashtra,CHK,3.98,1
+42,MH,Tamil Nadu,CHK,1.44,0
+47,OR,Maharashtra,CHK,4.94,1
+5,UP,Odisha,MAL,3.07,1
+28,KA,Bihar,CHK,2.75,1
+25,UP,Uttar Pradesh,MAL,0.54,0
+27,OR,Bihar,MAL,3.56,1
+11,WB,Rajasthan,MAL,0.4,0
+12,BH,Gujarat,CHK,0.52,0
+45,BH,Maharashtra,DEN,3.33,1
+44,GJ,Maharashtra,MAL,1.1,0
+11,RJ,Rajasthan,MAL,2.7,1
+51,RJ,Andhra Pradesh,MAL,4.9,1
+12,RJ,Tamil Nadu,CHK,2.47,1
+37,OR,West Bengal,CHK,4.6,1
+9,TN,Bihar,MAL,2.54,1
+45,AP,Tamil Nadu,CHK,2.94,1
+4,MH,Bihar,DEN,2.13,1
+37,GJ,Rajasthan,MAL,0.39,0
+8,UP,Odisha,DEN,0.84,0
+28,UP,Andhra Pradesh,MAL,3.97,1
+35,WB,West Bengal,MAL,4.02,1
+51,KA,West Bengal,CHK,3.64,1
+5,AP,Andhra Pradesh,CHK,2.48,1
+35,OR,Karnataka,MAL,3.87,1
+14,KA,Rajasthan,CHK,4.09,1
+43,BH,Uttar Pradesh,CHK,0.96,0
+47,UP,Tamil Nadu,MAL,0.96,0
+19,KA,Gujarat,MAL,2.07,1
+52,RJ,Odisha,CHK,0.77,0
+14,BH,Tamil Nadu,MAL,3.99,1
+23,WB,Odisha,DEN,3.3,1
+5,BH,Maharashtra,DEN,2.64,1
+23,UP,Odisha,MAL,2.02,1
+48,OR,Bihar,DEN,0.74,0
+39,GJ,Karnataka,CHK,3.79,1
+25,UP,Maharashtra,DEN,1.22,0
+41,UP,Uttar Pradesh,CHK,4.84,1
+22,WB,Maharashtra,MAL,0.58,0
+32,KA,Gujarat,CHK,4.78,1
+22,UP,Bihar,CHK,0.76,0
+25,BH,Bihar,CHK,4.2,1
+8,TN,West Bengal,CHK,3.05,1
+18,OR,West Bengal,DEN,2.31,1
+28,KA,Rajasthan,CHK,1.45,0
+36,RJ,Tamil Nadu,MAL,0.55,0
+11,OR,Rajasthan,DEN,4.94,1
+41,GJ,Bihar,DEN,1.46,0
+1,RJ,Maharashtra,MAL,0.79,0
+50,AP,West Bengal,CHK,0.16,0
+10,TN,Karnataka,CHK,3.05,1
+51,TN,Maharashtra,CHK,4.44,1
+35,WB,West Bengal,DEN,4.69,1
+1,GJ,Maharashtra,DEN,4.17,1
+1,OR,Bihar,CHK,0.83,0
+19,UP,Andhra Pradesh,MAL,3.56,1
+23,WB,Maharashtra,CHK,0.75,0
+5,TN,Karnataka,MAL,4.16,1
+25,AP,Karnataka,DEN,0.48,0
+47,BH,Andhra Pradesh,CHK,4.59,1
+52,TN,West Bengal,CHK,2.81,1
+5,KA,Odisha,DEN,0.72,0
+15,BH,Bihar,MAL,0.2,0
+26,WB,Tamil Nadu,CHK,4.1,1
+28,OR,Maharashtra,CHK,3.57,1
+35,WB,Tamil Nadu,DEN,0.91,0
+27,RJ,Uttar Pradesh,DEN,1.29,0
+51,GJ,Odisha,CHK,4.32,1
+3,AP,Odisha,DEN,4.29,1
+29,UP,Maharashtra,DEN,1.42,0
+3,MH,Gujarat,DEN,0.81,0
+39,TN,Maharashtra,MAL,4.84,1
+39,TN,Odisha,MAL,0.71,0
+47,KA,West Bengal,MAL,0.54,0
+28,RJ,Bihar,MAL,0.71,0
+13,RJ,Gujarat,DEN,0.39,0
+48,AP,Bihar,DEN,3.39,1
+39,MH,Gujarat,CHK,1.28,0
+10,OR,Maharashtra,CHK,3.45,1
+45,BH,West Bengal,MAL,0.55,0
+46,TN,Bihar,MAL,0.9,0
+8,RJ,Rajasthan,CHK,4.73,1
+12,KA,Rajasthan,CHK,0.71,0
+2,TN,Andhra Pradesh,CHK,1.15,0
+49,MH,Bihar,MAL,0.52,0
+20,WB,Andhra Pradesh,MAL,0.42,0
+50,GJ,West Bengal,CHK,4.46,1
+23,UP,Uttar Pradesh,MAL,0.68,0
+47,RJ,Bihar,MAL,1.4,0
+32,UP,Bihar,DEN,0.47,0
+9,BH,Maharashtra,DEN,2.08,1
+2,WB,Bihar,MAL,3.38,1
+28,RJ,Uttar Pradesh,CHK,0.36,0
+6,KA,Odisha,CHK,4.0,1
+35,GJ,Karnataka,DEN,3.63,1
+40,KA,Andhra Pradesh,MAL,2.56,1
+20,MH,Gujarat,CHK,0.78,0
+49,BH,Rajasthan,DEN,2.57,1
+5,AP,Karnataka,MAL,4.2,1
+3,BH,Rajasthan,DEN,1.12,0
+17,OR,Maharashtra,CHK,4.11,1
+38,RJ,Maharashtra,DEN,1.23,0
+49,OR,Karnataka,CHK,0.32,0
+8,MH,Gujarat,MAL,0.88,0
+47,AP,Tamil Nadu,CHK,0.88,0
+37,WB,Uttar Pradesh,DEN,0.78,0
+31,GJ,Uttar Pradesh,MAL,1.28,0
+23,WB,West Bengal,CHK,2.99,1
+25,RJ,Andhra Pradesh,CHK,3.65,1
+19,GJ,Rajasthan,CHK,3.48,1
+16,WB,West Bengal,DEN,4.02,1
+34,RJ,West Bengal,DEN,4.07,1
+33,BH,Uttar Pradesh,CHK,2.61,1
+20,MH,West Bengal,MAL,4.7,1
+11,AP,Gujarat,CHK,3.98,1
+37,TN,Tamil Nadu,DEN,0.45,0
+52,AP,Rajasthan,DEN,1.08,0
+8,BH,Odisha,DEN,4.23,1
+30,UP,Tamil Nadu,MAL,0.28,0
+39,AP,Uttar Pradesh,MAL,1.5,0
+40,AP,West Bengal,MAL,0.85,0
+45,TN,Uttar Pradesh,MAL,2.66,1
+39,BH,Gujarat,DEN,2.79,1
+47,TN,Tamil Nadu,MAL,3.71,1
+41,MH,Maharashtra,CHK,0.17,0
+30,OR,Uttar Pradesh,CHK,3.73,1
+25,TN,Uttar Pradesh,CHK,2.56,1
+31,UP,Bihar,MAL,3.23,1
+52,GJ,Bihar,DEN,0.11,0
+1,UP,Gujarat,MAL,4.33,1
+39,WB,Tamil Nadu,CHK,0.53,0
+2,UP,West Bengal,CHK,0.97,0
+35,TN,Rajasthan,CHK,0.33,0
+30,GJ,West Bengal,CHK,0.23,0
+49,KA,Bihar,MAL,4.09,1
+35,AP,Gujarat,DEN,4.02,1
+20,BH,West Bengal,DEN,0.44,0
+8,RJ,Maharashtra,MAL,2.32,1
+48,AP,West Bengal,DEN,4.8,1
+9,AP,Bihar,DEN,2.09,1
+44,MH,Uttar Pradesh,MAL,4.48,1
+50,TN,Odisha,MAL,0.41,0
+36,KA,Odisha,MAL,2.1,1
+45,OR,Maharashtra,DEN,1.42,0
+8,BH,Gujarat,MAL,1.19,0
+20,AP,Odisha,MAL,1.38,0
+23,OR,Bihar,DEN,0.93,0
+45,WB,Rajasthan,DEN,1.02,0
+23,TN,Tamil Nadu,DEN,1.34,0
+32,OR,Uttar Pradesh,CHK,0.69,0
+39,AP,Maharashtra,MAL,1.09,0
+39,KA,Gujarat,MAL,0.7,0
+34,TN,Maharashtra,CHK,2.55,1
+36,AP,West Bengal,MAL,4.48,1
+17,TN,West Bengal,CHK,0.91,0
+25,GJ,Maharashtra,DEN,3.7,1
+16,AP,Maharashtra,DEN,0.85,0
+11,UP,Karnataka,DEN,2.44,1
+38,UP,Uttar Pradesh,CHK,0.25,0
+47,GJ,Rajasthan,MAL,4.26,1
+44,BH,Odisha,DEN,3.72,1
+11,OR,Uttar Pradesh,DEN,0.61,0
+3,RJ,Tamil Nadu,DEN,2.78,1
+35,RJ,Odisha,MAL,0.7,0
+1,AP,Uttar Pradesh,MAL,3.04,1
+2,KA,Odisha,MAL,0.68,0
+29,OR,Gujarat,CHK,4.33,1
+18,UP,Tamil Nadu,CHK,1.25,0
+12,WB,Karnataka,CHK,4.16,1
+46,MH,Karnataka,CHK,2.62,1
+7,MH,Maharashtra,MAL,1.18,0
+33,OR,Karnataka,CHK,2.9,1
+17,GJ,Tamil Nadu,MAL,2.8,1
+40,OR,Tamil Nadu,DEN,0.83,0
+16,TN,West Bengal,DEN,2.81,1
+40,BH,Maharashtra,MAL,1.3,0
+17,AP,Rajasthan,DEN,0.47,0
+42,RJ,West Bengal,CHK,0.23,0
+35,OR,Odisha,CHK,2.3,1
+13,AP,Maharashtra,DEN,3.21,1
+44,GJ,Tamil Nadu,CHK,0.37,0
+44,BH,Andhra Pradesh,MAL,2.91,1
+26,KA,Rajasthan,MAL,3.22,1
+45,MH,Uttar Pradesh,DEN,3.04,1
+44,RJ,Tamil Nadu,DEN,0.56,0
+21,TN,Odisha,DEN,0.38,0
+21,WB,Bihar,CHK,3.99,1
+45,TN,Maharashtra,DEN,0.13,0
+32,RJ,West Bengal,MAL,1.05,0
+33,BH,Bihar,MAL,0.87,0
+12,UP,Andhra Pradesh,DEN,1.4,0
+2,OR,Rajasthan,DEN,0.12,0
+35,UP,Odisha,MAL,1.15,0
+1,BH,Rajasthan,CHK,2.66,1
+21,KA,Odisha,CHK,3.83,1
+16,GJ,Rajasthan,CHK,1.42,0
+44,OR,West Bengal,MAL,2.11,1
+16,GJ,West Bengal,DEN,0.4,0
+18,MH,Rajasthan,DEN,0.93,0
+47,AP,Andhra Pradesh,MAL,0.5,0
+22,AP,Maharashtra,DEN,3.08,1
+43,AP,Odisha,DEN,2.54,1
+22,AP,Maharashtra,MAL,0.11,0
+15,GJ,Gujarat,CHK,0.64,0
+11,BH,Rajasthan,MAL,0.13,0
+46,GJ,Bihar,CHK,0.14,0
+6,KA,Andhra Pradesh,DEN,4.48,1
+1,UP,Odisha,CHK,4.08,1
+46,UP,Andhra Pradesh,CHK,2.63,1
+9,RJ,Karnataka,DEN,0.54,0
+10,GJ,Rajasthan,DEN,1.45,0
+26,WB,Odisha,MAL,4.09,1
+47,RJ,Karnataka,MAL,2.66,1
+36,AP,Uttar Pradesh,DEN,4.9,1
+33,AP,Andhra Pradesh,MAL,3.3,1
+33,OR,Bihar,CHK,2.84,1
+32,KA,Maharashtra,DEN,0.23,0
+35,UP,Tamil Nadu,CHK,0.36,0
+13,BH,Andhra Pradesh,CHK,1.37,0
+32,WB,Odisha,CHK,0.17,0
+45,TN,Maharashtra,MAL,1.37,0
+19,OR,Andhra Pradesh,DEN,1.08,0
+27,RJ,Odisha,DEN,4.91,1
+29,BH,Gujarat,CHK,0.17,0
+42,MH,Bihar,CHK,0.32,0
+8,TN,Gujarat,MAL,4.91,1
+22,KA,Uttar Pradesh,MAL,1.03,0
+33,AP,Rajasthan,CHK,4.79,1
+46,TN,Odisha,CHK,0.21,0
+36,MH,Maharashtra,CHK,0.8,0
+51,AP,West Bengal,MAL,4.2,1
+6,BH,Bihar,DEN,4.46,1
+4,KA,Rajasthan,CHK,0.77,0
+22,OR,Gujarat,MAL,0.39,0
+34,UP,West Bengal,MAL,0.82,0
+44,MH,West Bengal,DEN,1.18,0
+50,BH,Tamil Nadu,CHK,2.57,1
+34,OR,Bihar,CHK,0.36,0
+1,UP,Tamil Nadu,MAL,4.5,1
+6,OR,Rajasthan,DEN,2.55,1
+45,OR,Karnataka,CHK,2.38,1
+42,KA,Bihar,CHK,4.26,1
+19,KA,Odisha,MAL,3.85,1
+26,GJ,Bihar,DEN,3.54,1
+17,MH,Andhra Pradesh,MAL,0.86,0
+2,MH,Karnataka,MAL,3.99,1
+3,MH,Karnataka,DEN,3.42,1
+22,OR,West Bengal,DEN,3.04,1
+23,MH,West Bengal,DEN,0.43,0
+22,KA,Tamil Nadu,DEN,0.74,0
+14,MH,Gujarat,MAL,0.16,0
+24,UP,Rajasthan,DEN,0.9,0
+50,UP,Tamil Nadu,MAL,3.37,1
+47,GJ,Gujarat,DEN,2.24,1
+7,BH,West Bengal,MAL,0.44,0
+23,UP,Rajasthan,CHK,2.17,1
+44,TN,Bihar,DEN,1.39,0
+43,KA,West Bengal,MAL,0.11,0
+1,BH,Uttar Pradesh,MAL,3.36,1
+47,GJ,Uttar Pradesh,DEN,2.68,1
+26,AP,West Bengal,DEN,0.89,0
+42,TN,Andhra Pradesh,DEN,2.9,1
+49,OR,Karnataka,DEN,0.93,0
+32,MH,Karnataka,MAL,1.42,0
+47,UP,Rajasthan,DEN,4.14,1
+11,WB,West Bengal,CHK,0.64,0
+45,AP,West Bengal,DEN,4.91,1
+39,TN,West Bengal,MAL,3.8,1
+51,GJ,Tamil Nadu,DEN,2.64,1
+15,TN,Maharashtra,DEN,3.55,1
+9,RJ,Andhra Pradesh,MAL,2.25,1
+11,GJ,Maharashtra,DEN,2.46,1
+15,GJ,Andhra Pradesh,DEN,0.28,0
+46,KA,Karnataka,CHK,0.61,0
+13,WB,Gujarat,MAL,3.99,1
+2,RJ,Gujarat,DEN,4.65,1
+23,KA,Maharashtra,DEN,0.75,0
+48,AP,Gujarat,CHK,4.88,1
+30,OR,Tamil Nadu,MAL,0.43,0
+24,TN,Bihar,DEN,2.16,1
+35,BH,Bihar,MAL,4.9,1
+9,GJ,Uttar Pradesh,DEN,4.71,1
+45,KA,Rajasthan,CHK,0.36,0
+26,GJ,Karnataka,DEN,3.59,1
+37,BH,Bihar,DEN,4.41,1
+2,TN,Karnataka,CHK,0.44,0
+16,GJ,Tamil Nadu,MAL,2.59,1
+13,MH,Bihar,MAL,2.78,1
+5,BH,Gujarat,CHK,0.96,0
+18,RJ,Odisha,CHK,0.66,0
+14,GJ,Bihar,MAL,2.75,1
+45,UP,Odisha,CHK,4.08,1
+32,KA,Karnataka,DEN,0.18,0
+3,KA,Karnataka,DEN,1.24,0
+11,OR,Karnataka,CHK,2.62,1
+18,WB,Gujarat,CHK,3.68,1
+31,AP,Gujarat,DEN,3.95,1
+11,UP,Andhra Pradesh,CHK,0.33,0
+7,AP,Karnataka,MAL,0.6,0
+10,KA,Odisha,DEN,0.99,0
+29,KA,Rajasthan,MAL,4.47,1
+12,GJ,Rajasthan,CHK,1.01,0
+6,RJ,Tamil Nadu,MAL,0.86,0
+5,MH,Odisha,CHK,2.92,1
+49,MH,Uttar Pradesh,MAL,4.81,1
+49,TN,Odisha,CHK,2.6,1
+24,UP,Gujarat,DEN,3.79,1
+19,OR,Andhra Pradesh,DEN,1.45,0
+9,MH,Uttar Pradesh,CHK,4.85,1
+4,TN,Maharashtra,DEN,4.58,1
+25,OR,Odisha,MAL,0.34,0
+34,AP,Uttar Pradesh,CHK,0.89,0
+5,WB,Karnataka,DEN,2.73,1
+47,MH,Maharashtra,MAL,1.41,0
+24,UP,Karnataka,MAL,0.42,0
+24,BH,Uttar Pradesh,DEN,2.62,1
+12,WB,Karnataka,CHK,0.29,0
+12,MH,Uttar Pradesh,DEN,3.37,1
+32,MH,Odisha,MAL,1.04,0
+13,WB,West Bengal,CHK,0.69,0
+46,AP,Karnataka,CHK,1.08,0
+51,UP,Uttar Pradesh,DEN,0.17,0
+5,MH,Maharashtra,MAL,4.66,1
+38,GJ,Uttar Pradesh,CHK,3.96,1
+51,AP,Rajasthan,DEN,3.06,1
+2,RJ,Uttar Pradesh,DEN,0.68,0
+2,GJ,West Bengal,CHK,0.44,0
+50,RJ,Odisha,MAL,0.92,0
+20,RJ,Maharashtra,MAL,4.02,1
+45,TN,Andhra Pradesh,CHK,3.68,1
+40,WB,Rajasthan,MAL,3.42,1
+49,AP,Odisha,MAL,3.75,1
+34,MH,Tamil Nadu,CHK,2.03,1
+43,AP,Odisha,MAL,0.89,0
+38,UP,Tamil Nadu,MAL,0.25,0
+2,RJ,Maharashtra,MAL,0.86,0
+33,OR,Karnataka,DEN,1.06,0
+24,RJ,Bihar,CHK,4.57,1
+28,KA,Rajasthan,MAL,0.74,0
+4,BH,Uttar Pradesh,MAL,1.47,0
+14,TN,Tamil Nadu,CHK,1.29,0
+20,UP,Karnataka,MAL,0.54,0
+47,MH,Tamil Nadu,CHK,0.59,0
+45,AP,Andhra Pradesh,DEN,4.0,1
+8,RJ,Odisha,CHK,1.12,0
+47,TN,Tamil Nadu,DEN,4.03,1
+26,WB,West Bengal,DEN,2.17,1
+10,MH,Rajasthan,MAL,0.5,0
+44,AP,Maharashtra,DEN,0.78,0
+39,AP,Uttar Pradesh,MAL,0.93,0
+29,GJ,Rajasthan,CHK,3.53,1
+50,BH,Tamil Nadu,MAL,4.02,1
+45,WB,Odisha,DEN,4.67,1
+6,UP,Maharashtra,DEN,1.29,0
+4,WB,Karnataka,MAL,0.44,0
+50,GJ,Bihar,DEN,0.74,0
+13,MH,Karnataka,CHK,0.86,0
+23,WB,Rajasthan,MAL,4.47,1
+35,BH,Uttar Pradesh,DEN,3.74,1
+16,WB,Bihar,CHK,0.97,0
+41,WB,Bihar,DEN,0.28,0
+30,GJ,Bihar,CHK,4.17,1
+29,OR,Tamil Nadu,MAL,2.78,1
+22,RJ,Rajasthan,CHK,4.69,1
+50,GJ,Maharashtra,CHK,1.14,0
+16,BH,Uttar Pradesh,MAL,0.79,0
+8,RJ,Andhra Pradesh,DEN,1.37,0
+43,KA,Maharashtra,CHK,0.68,0
+13,GJ,Karnataka,MAL,3.5,1
+33,TN,Tamil Nadu,CHK,3.51,1
+21,BH,West Bengal,MAL,2.43,1
+52,TN,Andhra Pradesh,CHK,0.23,0
+1,MH,Gujarat,CHK,0.73,0
+31,MH,West Bengal,MAL,4.04,1
+39,UP,Gujarat,DEN,2.54,1
+21,RJ,Uttar Pradesh,CHK,4.28,1
+48,OR,Rajasthan,MAL,1.37,0
+19,BH,Rajasthan,MAL,4.92,1
+19,MH,Tamil Nadu,MAL,3.25,1
+20,AP,Uttar Pradesh,CHK,2.21,1
+52,RJ,Karnataka,DEN,4.92,1
+29,GJ,Rajasthan,CHK,3.29,1
+35,AP,Gujarat,MAL,2.7,1
+5,BH,Odisha,DEN,4.25,1
+39,KA,Rajasthan,MAL,4.55,1
+48,BH,Uttar Pradesh,DEN,0.36,0
+26,MH,Maharashtra,CHK,0.61,0
+3,RJ,Gujarat,DEN,3.12,1
+14,TN,Uttar Pradesh,CHK,3.23,1
+26,KA,Maharashtra,DEN,4.28,1
+5,WB,Tamil Nadu,CHK,0.34,0
+27,RJ,West Bengal,MAL,1.05,0
+43,RJ,Maharashtra,MAL,3.43,1
+28,UP,West Bengal,MAL,0.51,0
+26,TN,Rajasthan,CHK,1.1,0
+36,WB,West Bengal,DEN,2.6,1
+42,BH,Maharashtra,CHK,0.21,0
+4,WB,Gujarat,MAL,0.92,0
+34,GJ,Bihar,DEN,2.65,1
+16,TN,Odisha,CHK,1.23,0
+22,OR,Rajasthan,CHK,0.33,0
+10,OR,Uttar Pradesh,DEN,2.84,1
+39,BH,Rajasthan,DEN,0.69,0
+19,KA,Tamil Nadu,MAL,2.56,1
+40,OR,Maharashtra,MAL,0.83,0
+9,OR,Andhra Pradesh,MAL,1.37,0
+11,MH,Gujarat,CHK,3.55,1
+27,RJ,Gujarat,DEN,2.86,1
+6,MH,Bihar,MAL,1.37,0
+36,GJ,Odisha,MAL,0.78,0
+13,RJ,Gujarat,CHK,3.95,1
+14,WB,Maharashtra,CHK,4.14,1
+26,WB,Andhra Pradesh,CHK,0.33,0
+1,TN,Gujarat,DEN,3.66,1
+3,OR,Odisha,DEN,4.84,1
+1,TN,Odisha,DEN,0.2,0
+14,OR,Gujarat,CHK,0.17,0
+47,WB,Andhra Pradesh,CHK,1.44,0
+30,UP,West Bengal,DEN,3.74,1
+1,BH,Bihar,MAL,3.43,1
+12,MH,West Bengal,DEN,2.5,1
+31,MH,Rajasthan,DEN,2.76,1
+22,GJ,Maharashtra,CHK,2.09,1
+35,AP,Gujarat,CHK,4.74,1
+24,BH,Rajasthan,CHK,3.0,1
+42,WB,Karnataka,CHK,3.87,1
+15,UP,Odisha,CHK,4.92,1
+29,AP,Rajasthan,MAL,4.2,1
+29,BH,Bihar,CHK,0.66,0
+28,OR,Tamil Nadu,DEN,4.8,1
+37,MH,Odisha,CHK,1.09,0
+22,RJ,Rajasthan,CHK,3.0,1
+47,TN,Bihar,MAL,2.2,1
+34,WB,Uttar Pradesh,MAL,2.72,1
+16,AP,West Bengal,CHK,3.88,1
+6,MH,Bihar,DEN,1.04,0
+6,OR,Odisha,MAL,1.5,0
+47,OR,Karnataka,CHK,1.35,0
+17,BH,Tamil Nadu,DEN,4.22,1
+45,TN,Maharashtra,CHK,0.67,0
+35,RJ,Maharashtra,CHK,1.45,0
+33,KA,Rajasthan,DEN,2.61,1
+42,MH,Odisha,DEN,0.49,0
+12,UP,Rajasthan,MAL,4.39,1
+42,TN,Gujarat,CHK,3.12,1
+26,OR,Gujarat,MAL,4.47,1
+32,WB,Odisha,MAL,3.12,1
+7,GJ,Odisha,CHK,0.1,0
+35,UP,Karnataka,CHK,4.59,1
+9,OR,Karnataka,MAL,2.82,1
+39,AP,Rajasthan,CHK,0.16,0
+40,TN,Karnataka,DEN,3.03,1
+39,OR,Bihar,DEN,0.55,0
+22,OR,Uttar Pradesh,DEN,4.43,1
+33,RJ,Odisha,DEN,2.87,1
+41,OR,Andhra Pradesh,CHK,1.0,0
+10,GJ,Tamil Nadu,MAL,0.71,0
+35,KA,Bihar,DEN,0.6,0
+4,UP,Maharashtra,MAL,2.52,1
+26,KA,Andhra Pradesh,MAL,2.35,1
+22,AP,Andhra Pradesh,DEN,0.15,0
+25,TN,Andhra Pradesh,CHK,2.28,1
+18,BH,Karnataka,MAL,0.32,0
+47,RJ,Karnataka,CHK,2.77,1
+26,WB,Bihar,DEN,0.31,0
+22,GJ,Bihar,CHK,0.79,0
+24,OR,Karnataka,DEN,3.61,1
+45,GJ,Tamil Nadu,DEN,3.45,1
+9,MH,Bihar,MAL,2.48,1
+25,GJ,Tamil Nadu,CHK,2.81,1
+30,MH,Bihar,DEN,0.53,0
+48,OR,Tamil Nadu,CHK,0.4,0
+51,KA,Maharashtra,DEN,0.27,0
+43,AP,Karnataka,MAL,0.54,0
+49,TN,Bihar,MAL,2.12,1
+23,AP,Gujarat,MAL,1.41,0
+32,MH,Rajasthan,DEN,1.37,0
+13,MH,Rajasthan,MAL,2.61,1
+32,TN,Gujarat,CHK,4.01,1
+15,MH,Uttar Pradesh,MAL,0.53,0
+29,MH,West Bengal,DEN,1.36,0
+3,KA,West Bengal,CHK,3.23,1
+13,UP,Andhra Pradesh,MAL,0.72,0
+17,RJ,Karnataka,DEN,1.33,0
+8,KA,Tamil Nadu,MAL,1.07,0
+4,OR,Andhra Pradesh,MAL,3.96,1
+52,BH,Bihar,CHK,0.76,0
+23,MH,Maharashtra,CHK,3.32,1
+25,KA,Tamil Nadu,CHK,0.84,0
+9,RJ,Tamil Nadu,MAL,0.68,0
+10,UP,Bihar,CHK,0.38,0
+1,AP,Odisha,CHK,0.62,0
+27,GJ,Uttar Pradesh,MAL,3.14,1
+13,WB,Gujarat,DEN,1.1,0
+23,UP,Gujarat,CHK,3.33,1
+47,UP,Andhra Pradesh,CHK,2.07,1
+29,KA,Bihar,MAL,0.78,0
+49,WB,Karnataka,CHK,4.93,1
+12,AP,Maharashtra,DEN,2.85,1
+44,GJ,Tamil Nadu,DEN,1.27,0
+14,UP,Karnataka,CHK,3.11,1
+28,MH,Rajasthan,MAL,0.33,0
+12,WB,Odisha,MAL,1.01,0
+2,OR,Andhra Pradesh,MAL,2.28,1
+51,RJ,Uttar Pradesh,CHK,2.91,1
+18,UP,Uttar Pradesh,DEN,4.02,1
+6,UP,Andhra Pradesh,MAL,0.26,0
+37,OR,Andhra Pradesh,MAL,0.6,0
+52,BH,Andhra Pradesh,MAL,4.67,1
+27,WB,Rajasthan,CHK,0.5,0
+48,GJ,Tamil Nadu,CHK,0.8,0
+27,RJ,West Bengal,DEN,2.25,1
+13,TN,Karnataka,CHK,0.65,0
+41,TN,Rajasthan,MAL,3.01,1
+4,BH,Tamil Nadu,CHK,0.35,0
+18,UP,Bihar,DEN,0.51,0
+39,BH,Uttar Pradesh,MAL,0.13,0
+33,MH,Maharashtra,DEN,1.39,0
+39,RJ,Gujarat,DEN,0.52,0
+7,KA,Odisha,MAL,0.16,0
+12,TN,Rajasthan,CHK,1.03,0
+13,BH,Odisha,CHK,1.2,0
+10,MH,Odisha,DEN,2.15,1
+24,UP,Rajasthan,DEN,1.0,0
+52,UP,Bihar,DEN,3.26,1
+14,WB,Maharashtra,CHK,3.45,1
+30,MH,Tamil Nadu,CHK,0.55,0
+41,MH,West Bengal,CHK,4.33,1
+30,OR,Maharashtra,DEN,0.66,0
+2,MH,Maharashtra,MAL,3.21,1
+2,GJ,Karnataka,CHK,4.4,1
+15,TN,Odisha,DEN,3.0,1
+14,UP,Maharashtra,CHK,1.39,0
+49,MH,Odisha,MAL,1.32,0
+51,OR,Bihar,CHK,3.11,1
+17,KA,Karnataka,MAL,0.22,0
+5,WB,Karnataka,MAL,0.29,0
+9,UP,Karnataka,CHK,0.22,0
+7,AP,Rajasthan,DEN,3.15,1
+15,OR,Uttar Pradesh,DEN,0.29,0
+46,TN,Tamil Nadu,MAL,0.28,0
+29,GJ,Odisha,MAL,4.07,1
+37,RJ,Rajasthan,CHK,0.62,0
+51,WB,Tamil Nadu,CHK,1.46,0
+26,UP,Andhra Pradesh,DEN,3.11,1
+15,UP,Uttar Pradesh,DEN,4.06,1
+24,BH,Gujarat,CHK,4.51,1
+22,BH,Tamil Nadu,MAL,0.18,0
+42,BH,Tamil Nadu,CHK,2.46,1
+20,AP,Odisha,MAL,0.37,0
+35,UP,Karnataka,DEN,1.3,0
+47,OR,Maharashtra,CHK,0.68,0
+19,AP,Maharashtra,CHK,2.56,1
+8,OR,Maharashtra,CHK,0.24,0
+24,OR,West Bengal,DEN,0.91,0
+10,BH,Andhra Pradesh,MAL,1.27,0
+49,OR,Uttar Pradesh,DEN,3.75,1
+11,GJ,Tamil Nadu,DEN,4.2,1
+3,AP,Maharashtra,DEN,1.21,0
+15,KA,Gujarat,MAL,3.3,1
+8,KA,Gujarat,CHK,1.03,0
+39,TN,Gujarat,CHK,4.73,1
+26,TN,Odisha,CHK,0.21,0
+27,UP,Uttar Pradesh,MAL,0.85,0
+23,MH,Rajasthan,DEN,3.98,1
+33,WB,Andhra Pradesh,DEN,2.5,1
+4,TN,Maharashtra,CHK,1.06,0
+20,BH,Bihar,DEN,3.63,1
+28,OR,West Bengal,DEN,0.4,0
+50,AP,West Bengal,DEN,0.21,0
+17,RJ,Odisha,DEN,0.78,0
+9,UP,Andhra Pradesh,DEN,3.3,1
+35,BH,Tamil Nadu,CHK,2.47,1
+19,BH,Odisha,CHK,2.2,1
+23,WB,Uttar Pradesh,DEN,0.2,0
+43,RJ,Odisha,DEN,1.38,0
+2,OR,Odisha,MAL,3.87,1
+24,KA,Andhra Pradesh,DEN,0.8,0
+40,KA,Bihar,CHK,3.7,1
+9,AP,Karnataka,DEN,3.98,1
+3,RJ,Gujarat,DEN,0.56,0
+43,UP,Maharashtra,MAL,0.35,0
+26,AP,Karnataka,MAL,3.21,1
+17,AP,Odisha,CHK,0.19,0
+11,KA,Rajasthan,CHK,0.82,0
+46,KA,West Bengal,CHK,3.61,1
+34,UP,Karnataka,CHK,2.25,1
+5,AP,Karnataka,MAL,1.14,0
+16,UP,Maharashtra,DEN,2.84,1
+34,OR,Karnataka,MAL,0.32,0
+5,RJ,West Bengal,MAL,4.67,1
+37,WB,Rajasthan,CHK,0.64,0
+20,UP,Rajasthan,DEN,2.23,1
+16,TN,Odisha,CHK,0.22,0
+23,BH,Gujarat,MAL,1.41,0
+49,UP,Odisha,DEN,3.21,1
+3,AP,Uttar Pradesh,MAL,3.86,1
+41,RJ,Maharashtra,CHK,2.65,1
+43,AP,Andhra Pradesh,CHK,0.11,0
+28,MH,West Bengal,DEN,3.84,1
+41,OR,West Bengal,MAL,2.75,1
+30,MH,Odisha,MAL,0.9,0
+38,UP,Tamil Nadu,MAL,2.81,1
+11,AP,Andhra Pradesh,DEN,3.89,1
+49,TN,Karnataka,CHK,2.17,1
+29,KA,Gujarat,DEN,0.18,0
+3,RJ,Karnataka,DEN,2.03,1
+7,BH,Karnataka,DEN,3.19,1
+27,GJ,Maharashtra,DEN,1.0,0
+27,WB,Maharashtra,DEN,2.81,1
+31,WB,Uttar Pradesh,CHK,0.54,0
+37,MH,Karnataka,CHK,4.22,1
+38,RJ,Gujarat,DEN,2.04,1
+45,WB,Uttar Pradesh,DEN,1.13,0
+29,GJ,Karnataka,CHK,0.26,0
+3,TN,Gujarat,CHK,0.12,0
+46,OR,Odisha,DEN,0.67,0
+18,RJ,Tamil Nadu,DEN,0.91,0
+48,GJ,Tamil Nadu,CHK,0.2,0
+10,TN,Maharashtra,MAL,1.42,0
+5,RJ,Gujarat,DEN,0.85,0
+29,BH,West Bengal,MAL,2.43,1
+52,GJ,Maharashtra,CHK,1.32,0
+34,KA,Karnataka,MAL,4.79,1
+7,AP,Tamil Nadu,MAL,0.81,0
+12,BH,Odisha,MAL,3.35,1
+12,MH,Gujarat,MAL,4.93,1
+52,TN,Uttar Pradesh,MAL,4.68,1
+17,RJ,West Bengal,DEN,4.45,1
+22,MH,Gujarat,DEN,4.59,1
+18,BH,Andhra Pradesh,MAL,0.35,0
+12,RJ,Rajasthan,DEN,4.42,1
+42,WB,Rajasthan,CHK,0.82,0
+3,KA,Tamil Nadu,CHK,1.42,0
+18,UP,Andhra Pradesh,CHK,0.65,0
+14,TN,Bihar,CHK,0.14,0
+22,GJ,Andhra Pradesh,CHK,0.19,0
+45,AP,Andhra Pradesh,MAL,0.69,0
+24,WB,Tamil Nadu,CHK,0.76,0
+7,MH,Gujarat,MAL,0.88,0
+15,UP,Uttar Pradesh,DEN,4.13,1
+27,WB,Rajasthan,DEN,0.89,0
+2,WB,Gujarat,MAL,0.82,0
+22,RJ,West Bengal,CHK,0.73,0
+4,UP,Tamil Nadu,CHK,0.73,0
+50,RJ,Karnataka,MAL,1.23,0
+14,AP,Andhra Pradesh,MAL,1.13,0
+18,WB,Rajasthan,DEN,0.13,0
+14,BH,Odisha,MAL,0.28,0
+39,UP,Tamil Nadu,CHK,2.7,1
+8,RJ,Maharashtra,DEN,0.27,0
+29,KA,Rajasthan,CHK,0.11,0
+4,WB,Odisha,DEN,0.57,0
+47,AP,Andhra Pradesh,CHK,0.33,0
+38,MH,Odisha,CHK,4.49,1
+19,UP,Karnataka,CHK,2.63,1
+14,AP,Odisha,DEN,0.5,0
+31,OR,Rajasthan,DEN,0.77,0
+44,KA,Karnataka,CHK,3.45,1
+2,UP,Maharashtra,DEN,0.88,0
+24,MH,Maharashtra,CHK,1.18,0
+8,RJ,Gujarat,DEN,3.22,1
+30,TN,Karnataka,CHK,2.59,1
+25,KA,Odisha,DEN,2.09,1
+32,OR,Gujarat,MAL,1.26,0
+24,AP,West Bengal,CHK,1.27,0
+36,UP,West Bengal,CHK,0.47,0
+50,MH,Uttar Pradesh,CHK,0.89,0
+52,MH,Gujarat,DEN,0.55,0
+37,MH,Odisha,DEN,1.15,0
+11,GJ,Uttar Pradesh,DEN,0.81,0
+32,RJ,West Bengal,DEN,0.8,0
+51,BH,Karnataka,CHK,1.46,0
+7,WB,Bihar,MAL,1.33,0
+50,OR,Rajasthan,MAL,1.33,0
+13,TN,Rajasthan,DEN,0.89,0
+48,UP,Tamil Nadu,CHK,0.39,0
+15,AP,Maharashtra,CHK,0.85,0
+34,OR,Odisha,MAL,0.33,0
+51,UP,West Bengal,MAL,4.52,1
+14,BH,Andhra Pradesh,DEN,2.26,1
+31,BH,Rajasthan,DEN,1.03,0
+3,BH,Odisha,DEN,1.08,0
+24,KA,Rajasthan,CHK,3.87,1
+46,OR,Andhra Pradesh,MAL,3.74,1
+46,RJ,Uttar Pradesh,MAL,3.78,1
+34,TN,Andhra Pradesh,MAL,1.22,0
+4,WB,Rajasthan,CHK,1.44,0
+18,UP,Maharashtra,MAL,0.22,0
+47,BH,Bihar,CHK,0.47,0
+26,TN,Karnataka,CHK,4.99,1
+37,TN,Andhra Pradesh,DEN,0.73,0
+10,AP,Maharashtra,MAL,2.39,1
+37,TN,Gujarat,DEN,0.74,0
+4,TN,Odisha,CHK,0.27,0
+20,AP,Karnataka,MAL,2.53,1
+24,RJ,Gujarat,MAL,0.45,0
+51,OR,Andhra Pradesh,DEN,0.2,0
+26,AP,Tamil Nadu,MAL,2.23,1
+2,OR,Rajasthan,CHK,0.95,0
+25,OR,Rajasthan,MAL,4.18,1
+39,GJ,West Bengal,MAL,0.23,0
+43,BH,Gujarat,DEN,4.12,1
+31,GJ,Karnataka,DEN,0.84,0
+21,WB,Odisha,DEN,4.39,1
+12,MH,Rajasthan,DEN,2.74,1
+12,KA,Rajasthan,DEN,0.32,0
+30,MH,Tamil Nadu,MAL,0.69,0
+27,AP,Uttar Pradesh,CHK,0.43,0
+34,WB,Uttar Pradesh,MAL,3.59,1
+46,OR,Andhra Pradesh,MAL,0.13,0
+39,TN,Rajasthan,MAL,0.33,0
+51,MH,Maharashtra,DEN,2.32,1
+32,KA,West Bengal,DEN,2.05,1
+18,UP,Gujarat,DEN,3.31,1
+48,WB,Karnataka,MAL,4.45,1
+25,RJ,West Bengal,DEN,3.89,1
+38,MH,Odisha,MAL,2.12,1
+9,OR,West Bengal,DEN,0.59,0
+52,KA,Andhra Pradesh,MAL,1.17,0
+42,BH,Odisha,DEN,0.93,0
+32,UP,Andhra Pradesh,MAL,0.94,0
+9,OR,Karnataka,DEN,4.45,1
+9,BH,Gujarat,MAL,1.12,0
+18,GJ,Andhra Pradesh,MAL,4.76,1
+3,GJ,Bihar,MAL,0.42,0
+9,OR,West Bengal,DEN,4.43,1
+27,RJ,West Bengal,DEN,0.37,0
+39,KA,Karnataka,MAL,2.69,1
+40,TN,Gujarat,DEN,2.43,1
+29,MH,Maharashtra,MAL,3.49,1
+5,GJ,Andhra Pradesh,MAL,2.84,1
+21,GJ,Maharashtra,DEN,0.46,0
+46,KA,Andhra Pradesh,DEN,0.79,0
+47,AP,Gujarat,MAL,3.46,1
+5,OR,Uttar Pradesh,DEN,3.99,1
+4,GJ,West Bengal,CHK,0.43,0
+40,TN,Maharashtra,CHK,0.53,0
+4,WB,Rajasthan,CHK,2.89,1
+41,TN,Uttar Pradesh,MAL,4.31,1
+6,GJ,Bihar,CHK,3.83,1
+40,MH,Bihar,MAL,4.5,1
+6,MH,Karnataka,DEN,0.2,0
+3,RJ,Bihar,DEN,2.0,1
+43,WB,Karnataka,CHK,1.25,0
+28,KA,Gujarat,DEN,4.25,1
+29,MH,Karnataka,CHK,1.21,0
+9,AP,Andhra Pradesh,DEN,0.57,0
+46,UP,Tamil Nadu,DEN,3.89,1
+7,TN,Andhra Pradesh,CHK,2.88,1
+43,UP,West Bengal,DEN,2.61,1
+16,OR,Bihar,CHK,0.49,0
+21,GJ,Rajasthan,MAL,3.26,1
+41,WB,Andhra Pradesh,MAL,3.8,1
+12,OR,Odisha,CHK,1.41,0
+27,AP,Karnataka,CHK,1.37,0
+13,UP,Tamil Nadu,DEN,0.8,0
+24,KA,Andhra Pradesh,CHK,0.78,0
+52,MH,West Bengal,MAL,2.21,1
+47,TN,Uttar Pradesh,CHK,0.94,0
+12,KA,Bihar,DEN,1.19,0
+52,WB,West Bengal,CHK,4.69,1
+25,RJ,Bihar,MAL,0.84,0
+17,UP,Tamil Nadu,CHK,2.5,1
+23,BH,Bihar,DEN,0.41,0
+40,KA,Maharashtra,CHK,4.82,1
+36,OR,Maharashtra,MAL,0.37,0
+3,AP,Gujarat,DEN,0.49,0
+47,RJ,Karnataka,CHK,2.79,1
+6,WB,Bihar,CHK,3.6,1
+30,RJ,Andhra Pradesh,CHK,2.23,1
+32,AP,Uttar Pradesh,MAL,2.28,1
+49,OR,Karnataka,DEN,2.05,1
+46,RJ,Odisha,MAL,2.15,1
+32,WB,Bihar,MAL,0.99,0
+11,GJ,Odisha,MAL,4.65,1
+14,UP,Maharashtra,DEN,3.32,1
+11,BH,Uttar Pradesh,CHK,0.96,0
+50,AP,West Bengal,MAL,4.85,1
+27,BH,West Bengal,DEN,0.58,0
+1,AP,West Bengal,CHK,4.78,1
+1,BH,Odisha,DEN,1.07,0
+15,AP,Karnataka,DEN,1.09,0
+31,UP,Andhra Pradesh,DEN,0.94,0
+9,OR,Odisha,CHK,0.88,0
+25,BH,Gujarat,CHK,0.67,0
+6,TN,Andhra Pradesh,DEN,4.41,1
+21,WB,Bihar,MAL,0.46,0
+22,KA,Gujarat,CHK,4.79,1
+28,WB,Tamil Nadu,MAL,0.1,0
+32,AP,Karnataka,CHK,3.11,1
+43,AP,Tamil Nadu,CHK,3.24,1
+8,UP,Bihar,DEN,2.94,1
+32,OR,Odisha,CHK,4.25,1
+38,AP,Maharashtra,MAL,1.33,0
+28,AP,Bihar,CHK,2.42,1
+40,OR,Tamil Nadu,MAL,4.17,1
+25,TN,Tamil Nadu,MAL,4.97,1
+35,OR,West Bengal,CHK,0.28,0
+15,OR,Bihar,CHK,0.19,0
+49,UP,Gujarat,MAL,0.66,0
+11,OR,Gujarat,MAL,1.24,0
+12,KA,Gujarat,DEN,2.69,1
+25,TN,Tamil Nadu,MAL,0.68,0
+45,RJ,Bihar,DEN,0.71,0
+44,BH,Maharashtra,CHK,0.21,0
+16,UP,Gujarat,DEN,0.44,0
+28,BH,Tamil Nadu,MAL,1.28,0
+40,OR,Rajasthan,MAL,0.18,0
+52,BH,Tamil Nadu,DEN,0.18,0
+33,UP,Rajasthan,CHK,4.84,1
+16,MH,Andhra Pradesh,DEN,2.16,1
+50,TN,Tamil Nadu,DEN,3.46,1
+16,WB,Bihar,DEN,4.1,1
+34,BH,Odisha,DEN,0.41,0
+25,WB,Gujarat,MAL,0.24,0
+46,BH,Tamil Nadu,MAL,1.0,0
+28,GJ,West Bengal,DEN,1.02,0
+18,UP,Odisha,DEN,3.01,1
+2,GJ,Gujarat,DEN,1.38,0
+30,RJ,Tamil Nadu,DEN,2.49,1
+37,WB,Bihar,DEN,3.17,1
+9,KA,West Bengal,MAL,0.94,0
+28,RJ,West Bengal,CHK,3.29,1
+6,RJ,Maharashtra,CHK,4.14,1
+36,AP,Karnataka,DEN,2.21,1
+8,WB,Rajasthan,DEN,3.07,1
+25,OR,Rajasthan,CHK,4.34,1
+31,BH,Karnataka,DEN,3.18,1
+26,RJ,West Bengal,MAL,0.22,0
+39,KA,Uttar Pradesh,CHK,4.94,1
+17,UP,Gujarat,CHK,4.15,1
+44,MH,Andhra Pradesh,DEN,4.08,1
+31,RJ,West Bengal,CHK,3.16,1
+14,GJ,Bihar,MAL,0.67,0
+2,OR,Rajasthan,MAL,1.41,0
+42,TN,West Bengal,DEN,0.42,0
+4,GJ,Rajasthan,CHK,1.35,0
+5,GJ,Rajasthan,DEN,2.95,1
+19,BH,Uttar Pradesh,MAL,1.0,0
+11,UP,Gujarat,DEN,0.86,0
+34,GJ,Rajasthan,CHK,1.49,0
+51,OR,Gujarat,MAL,3.33,1
+28,RJ,Karnataka,MAL,0.38,0
+50,OR,Gujarat,DEN,3.46,1
+26,OR,Tamil Nadu,CHK,4.52,1
+28,MH,Maharashtra,DEN,2.89,1
+39,MH,Andhra Pradesh,DEN,0.28,0
+52,AP,Bihar,CHK,4.91,1
+52,UP,Andhra Pradesh,CHK,2.94,1
+16,WB,Odisha,DEN,0.86,0
+39,WB,Bihar,CHK,1.07,0
+37,RJ,Maharashtra,DEN,3.3,1
+20,UP,Bihar,DEN,1.48,0
+52,TN,Andhra Pradesh,MAL,4.15,1
+35,AP,Maharashtra,MAL,0.9,0
+31,GJ,Gujarat,MAL,2.28,1
+19,TN,Bihar,CHK,4.39,1
+22,OR,Andhra Pradesh,CHK,3.38,1
+30,KA,West Bengal,CHK,4.31,1
+38,UP,Maharashtra,CHK,0.92,0
+33,MH,Maharashtra,DEN,3.86,1
+12,GJ,Uttar Pradesh,DEN,1.17,0
+18,AP,Karnataka,CHK,4.0,1
+49,KA,Maharashtra,DEN,3.4,1
+22,TN,Andhra Pradesh,DEN,1.47,0
+49,UP,Andhra Pradesh,CHK,4.08,1
+33,BH,Andhra Pradesh,DEN,2.52,1
+16,WB,Gujarat,CHK,0.33,0
+51,MH,Gujarat,DEN,0.34,0
+3,WB,Andhra Pradesh,DEN,2.69,1
+28,AP,Bihar,DEN,2.71,1
+49,GJ,Andhra Pradesh,CHK,0.64,0
+8,BH,Bihar,CHK,0.34,0
+24,KA,Maharashtra,MAL,4.39,1
+19,UP,Gujarat,DEN,0.89,0
+47,KA,Rajasthan,CHK,4.27,1
+52,WB,Tamil Nadu,CHK,1.09,0
+46,TN,Gujarat,DEN,1.06,0
+40,TN,Gujarat,DEN,2.82,1
+45,WB,West Bengal,CHK,0.39,0
+35,TN,Rajasthan,MAL,3.51,1
+19,KA,Odisha,MAL,1.43,0
+6,UP,Gujarat,DEN,4.28,1
+28,UP,Maharashtra,DEN,3.66,1
+46,MH,Maharashtra,MAL,0.59,0
+30,KA,Rajasthan,CHK,0.34,0
+7,BH,Odisha,CHK,0.37,0
+49,RJ,West Bengal,DEN,0.52,0
+21,TN,West Bengal,MAL,0.38,0
+21,AP,Rajasthan,DEN,1.43,0
+34,TN,Bihar,CHK,4.9,1
+15,MH,West Bengal,DEN,1.25,0
+10,WB,West Bengal,DEN,1.47,0
