@@ -2,77 +2,72 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Disease Outbreak Prediction</title>
-    <link rel="stylesheet" href="../static/main_css.css">
+    <title>Disease Outbreak Predictor</title>
     <style>
         body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #f4f9f9;
             margin: 0;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #e0f7fa, #fff);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+            padding: 0;
         }
-
         .container {
-            background-color: #ffffff;
-            padding: 40px 50px;
-            border-radius: 20px;
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-            width: 400px;
-            text-align: center;
+            max-width: 600px;
+            margin: 3rem auto;
+            background: white;
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
         }
-
         h1 {
-            margin-bottom: 20px;
-            color: #333333;
+            text-align: center;
+            color: #333;
         }
-
-        form input[type="number"] {
-            width: 90%;
+        form {
+            margin-top: 2rem;
+        }
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 1rem;
+        }
+        input[type="number"] {
+            width: 100%;
             padding: 10px;
-            margin: 10px 0;
+            margin-top: 0.5rem;
             border-radius: 8px;
             border: 1px solid #ccc;
-            font-size: 14px;
         }
-
-        form button {
-            width: 100%;
-            padding: 12px;
-            background-color: #28a745;
-            color: white;
+        input[type="submit"] {
+            margin-top: 2rem;
+            padding: 12px 25px;
+            background-color: #4CAF50;
             border: none;
             border-radius: 8px;
+            color: white;
             font-size: 16px;
             cursor: pointer;
-            margin-top: 15px;
-            transition: background-color 0.3s ease;
+            width: 100%;
         }
-
-        form button:hover {
-            background-color: #218838;
+        input[type="submit"]:hover {
+            background-color: #45a049;
         }
-
         .result {
-            margin-top: 25px;
+            margin-top: 2rem;
             padding: 15px;
-            border-radius: 10px;
-            background-color: #f1f1f1;
+            background-color: #f0f8ff;
+            border-left: 5px solid #2196F3;
+            border-radius: 8px;
             font-size: 18px;
-            color: #444;
-            box-shadow: inset 0 0 10px rgba(0,0,0,0.05);
         }
-
-        .positive {
-            color: #c0392b;
-            font-weight: bold;
+        .inputs {
+            margin-top: 1rem;
+            background: #f9f9f9;
+            padding: 1rem;
+            border-radius: 10px;
+            border: 1px solid #ddd;
         }
-
-        .negative {
-            color: #27ae60;
-            font-weight: bold;
+        .inputs ul {
+            padding-left: 20px;
         }
     </style>
 </head>
@@ -80,25 +75,39 @@
     <div class="container">
         <h1>Disease Outbreak Predictor</h1>
 
-        <form action="/predict" method="post">
-            <input type="number" name="week" placeholder="Week Number" required>
+        <form action="/predict" method="POST">
+            <label for="week">Week Number:</label>
+            <input type="number" name="week" required>
 
-            <input type="number" name="state_code" placeholder="State Code (Numeric)" required>
+            <label for="state_code">State Code (Numeric):</label>
+            <input type="number" name="state_code" required>
 
-            <input type="number" name="state_name" placeholder="State Name (Encoded Number)" required>
+            <label for="state_name">State Name (Encoded Number):</label>
+            <input type="number" name="state_name" required>
 
-            <input type="number" name="disease_code" placeholder="Disease Code (Encoded Number)" required>
+            <label for="disease_code">Disease Code (Encoded Number):</label>
+            <input type="number" name="disease_code" required>
 
-            <input type="number" step="any" name="incidence_per_capita" placeholder="Incidence per Capita" required>
+            <label for="incidence_per_capita">Incidence per Capita:</label>
+            <input type="number" step="any" name="incidence_per_capita" required>
 
-            <button type="submit">Predict Outbreak</button>
+            <input type="submit" value="Predict Outbreak">
         </form>
 
         {% if prediction_text %}
             <div class="result">
-                <span class="{{ 'positive' if 'Detected' in prediction_text else 'negative' }}">
-                    {{ prediction_text }}
-                </span>
+                <strong>Prediction:</strong> {{ prediction_text }}
+            </div>
+
+            <div class="inputs">
+                <h4>Your Inputs:</h4>
+                <ul>
+                    <li><strong>Week:</strong> {{ week }}</li>
+                    <li><strong>State Code:</strong> {{ state_code }}</li>
+                    <li><strong>State Name:</strong> {{ state_name }}</li>
+                    <li><strong>Disease Code:</strong> {{ disease_code }}</li>
+                    <li><strong>Incidence per Capita:</strong> {{ incidence_per_capita }}</li>
+                </ul>
             </div>
         {% endif %}
     </div>
