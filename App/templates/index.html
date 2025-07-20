@@ -5,79 +5,144 @@
   <title>🧬 Disease Outbreak Predictor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom right, #f8f9fa, #e3f2fd);
+      color: #212529;
+    }
+
+    .navbar {
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+
+    header {
+      background: linear-gradient(to right, #e0f7fa, #fff);
+      border-bottom: 3px solid #dee2e6;
+    }
+
+    section {
+      padding: 60px 0;
+    }
+
+    h2 {
+      font-weight: bold;
+    }
+
+    .form-control {
+      border-radius: 10px;
+      border: 1px solid #ced4da;
+      transition: box-shadow 0.3s;
+    }
+
+    .form-control:focus {
+      box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    }
+
+    .card-hover:hover {
+      transform: scale(1.02);
+      transition: 0.3s ease-in-out;
+      box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+    }
+
+    .list-group-item {
+      background-color: #f9f9f9;
+      border: none;
+    }
+
+    footer {
+      background: #c62828;
+      color: white;
+    }
+
+    .section-divider {
+      text-align: center;
+      font-size: 2rem;
+      color: #0d6efd;
+      margin-bottom: 1rem;
+    }
+  </style>
 </head>
-<body>
+<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
 
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
   <div class="container">
-    <a class="navbar-brand" href="/">🧬 Disease Outbreak Predictor</a>
+    <a class="navbar-brand fw-bold" href="#">🧬 Disease Outbreak Predictor</a>
   </div>
 </nav>
 
-<!-- Hero Section with Image beside Title -->
-<header class="bg-light py-5">
+<!-- Hero Section -->
+<header class="py-5" data-aos="fade-right">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-7">
-        <h1 class="display-5 fw-bold">Predict Disease Outbreaks Instantly</h1>
-        <p class="lead">Empowering public health with intelligent outbreak prediction.</p>
+        <h1 class="display-5 fw-bold text-primary">Predict Disease Outbreaks Instantly</h1>
+        <p class="lead">Empowering public health with intelligent outbreak prediction powered by AI.</p>
       </div>
       <div class="col-md-5 text-center">
-        <img src="{{ url_for('static', filename='ai-in-medicine-concept-a-robot-analyzes-data-on-a-digital-map-for-disease-outbreak-prediction-advanced-healthcare-technology-vector-illustration-2XNC40E.jpg') }}" 
+        <img src="{{ url_for('static', filename='disease.jpg') }}" 
              alt="Disease Prediction Hero" 
-             class="img-fluid rounded"
-             style="max-height: 250px;">
+             class="img-fluid rounded shadow"
+             style="max-height: 280px;">
       </div>
     </div>
   </div>
 </header>
 
-<!-- About Section (Moved Up) -->
-<section class="bg-white py-5 border-top">
+<!-- About Section -->
+<section class="bg-white border-top">
   <div class="container">
-    <h2 class="text-center mb-4">About Us</h2>
-    <p class="text-center">We use AI-powered health analytics to predict potential disease outbreaks based on region and timing.</p>
-    <div class="row mt-4">
-      <div class="col-md-4 text-center">
-        <h5>📈 Predictive Analytics</h5>
-        <p>Detect outbreak patterns early and prevent escalation.</p>
+    <div class="section-divider">📚</div>
+    <h2 class="text-center mb-4" data-aos="zoom-in">About Us</h2>
+    <p class="text-center mb-5" data-aos="zoom-in" data-aos-delay="100">We leverage AI and data science to anticipate and manage disease outbreaks, helping public health systems react faster and smarter.</p>
+    <div class="row text-center">
+      <div class="col-md-4 mb-3" data-aos="flip-left">
+        <div class="p-4 border rounded shadow-sm card-hover h-100">
+          <h5>📈 Predictive Analytics</h5>
+          <p>Identify disease trends before they grow into full-scale outbreaks.</p>
+        </div>
       </div>
-      <div class="col-md-4 text-center">
-        <h5>🌍 Regional Insights</h5>
-        <p>Track diseases across regions to target healthcare resources effectively.</p>
+      <div class="col-md-4 mb-3" data-aos="flip-left" data-aos-delay="150">
+        <div class="p-4 border rounded shadow-sm card-hover h-100">
+          <h5>🌍 Regional Insights</h5>
+          <p>Monitor patterns across states to support targeted healthcare responses.</p>
+        </div>
       </div>
-      <div class="col-md-4 text-center">
-        <h5>🔐 Secure & Confidential</h5>
-        <p>All predictions are processed securely without exposing personal data.</p>
+      <div class="col-md-4 mb-3" data-aos="flip-left" data-aos-delay="300">
+        <div class="p-4 border rounded shadow-sm card-hover h-100">
+          <h5>🔐 Secure & Confidential</h5>
+          <p>We ensure strict data privacy while making accurate predictions.</p>
+        </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- Form & Field Explanation Side-by-Side -->
-<section class="py-5">
+<!-- Prediction Section -->
+<section>
   <div class="container">
     <div class="row">
       <!-- Prediction Form -->
-      <div class="col-md-6">
-        <h2 class="mb-4">📊 Disease Input Form</h2>
+      <div class="col-md-6" data-aos="fade-up">
+        <div class="section-divider">📊</div>
+        <h2 class="mb-4">Disease Input Form</h2>
         <form method="POST" action="/predict" class="row g-3">
           <div class="col-md-6">
             <label class="form-label">Week Number</label>
             <input type="number" name="week" class="form-control" required>
           </div>
           <div class="col-md-6">
-            <label class="form-label">State Code (Numeric)</label>
+            <label class="form-label">State Code</label>
             <input type="number" name="state_code" class="form-control" required>
           </div>
           <div class="col-md-6">
-            <label class="form-label">State Name (Encoded Number)</label>
+            <label class="form-label">State Name (Encoded)</label>
             <input type="number" name="state_name" class="form-control" required>
           </div>
           <div class="col-md-6">
-            <label class="form-label">Disease Code (Encoded Number)</label>
+            <label class="form-label">Disease Code</label>
             <input type="number" name="disease_code" class="form-control" required>
           </div>
           <div class="col-12">
@@ -85,15 +150,14 @@
             <input type="number" step="any" name="incidence_per_capita" class="form-control" required>
           </div>
           <div class="col-12">
-            <button type="submit" class="btn btn-success w-100">🔍 Predict Outbreak</button>
+            <button type="submit" class="btn btn-primary w-100">🔍 Predict Outbreak</button>
           </div>
         </form>
 
         {% if prediction_text %}
-        <div class="alert alert-info mt-4">
-          <h4>📌 Prediction Result: <strong>{{ prediction_text }}</strong></h4>
-          <p class="mb-1"><strong>Your Input Data:</strong></p>
-          <ul>
+        <div class="alert alert-info mt-4 shadow-sm">
+          <h4>📌 Prediction: <strong>{{ prediction_text }}</strong></h4>
+          <ul class="mt-2">
             <li>Week: {{ week }}</li>
             <li>State Code: {{ state_code }}</li>
             <li>State Name: {{ state_name }}</li>
@@ -104,15 +168,16 @@
         {% endif %}
       </div>
 
-      <!-- Understanding Inputs -->
-      <div class="col-md-6">
-        <h2 class="mb-4">🧠 Understanding the Inputs</h2>
+      <!-- Input Explanation -->
+      <div class="col-md-6" data-aos="fade-left">
+        <div class="section-divider">🧠</div>
+        <h2 class="mb-4">Understanding the Inputs</h2>
         <ul class="list-group list-group-flush fs-5">
-          <li class="list-group-item"><strong>Week Number:</strong> The calendar week of the year (1–52).</li>
-          <li class="list-group-item"><strong>State Code:</strong> Numeric representation of the state.</li>
-          <li class="list-group-item"><strong>State Name:</strong> Encoded number representing the state name.</li>
-          <li class="list-group-item"><strong>Disease Code:</strong> Encoded disease identifier.</li>
-          <li class="list-group-item"><strong>Incidence per Capita:</strong> Rate of disease per population unit.</li>
+          <li class="list-group-item"><strong>Week Number:</strong> Calendar week (1–52).</li>
+          <li class="list-group-item"><strong>State Code:</strong> Unique numeric code of the state.</li>
+          <li class="list-group-item"><strong>State Name:</strong> Encoded version of state names for model input.</li>
+          <li class="list-group-item"><strong>Disease Code:</strong> Encoded identifier of the disease type.</li>
+          <li class="list-group-item"><strong>Incidence per Capita:</strong> Disease frequency per population unit.</li>
         </ul>
       </div>
     </div>
@@ -120,10 +185,12 @@
 </section>
 
 <!-- Footer -->
-<footer class="bg-danger text-white text-center py-3">
-  &copy; 2025 Disease Outbreak Predictor | Built with ❤️ for Public Health
+<footer class="text-center py-3 mt-5">
+  &copy; 2025 Disease Outbreak Predictor | Built with ❤️ for Public Health Awareness
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>AOS.init();</script>
 </body>
 </html>
